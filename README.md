@@ -51,7 +51,7 @@ I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/ga
 <img align="left" title="typescript" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" title="node" alt="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" title="Figma" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/220px-Figma-logo.svg.png" />
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="787ad5b5-cea7-4c0f-84db-a804a7e123a2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 <br/><br/>
  My GitHub Stats :
