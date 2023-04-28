@@ -67,3 +67,7 @@ I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/ga
 <a href="https://www.credly.com/badges/86e4acda-da36-4c17-ad5a-3e004e38d257/public_url">
 <img width="150px" src="https://user-images.githubusercontent.com/72108088/187437809-9cea7190-01c7-482e-81fc-f888e3782824.png">
 </a>
+
+<a href="https://www.credly.com/badges/8bd81c16-646e-430b-bdfe-1af02fe9a2f1/public_url">
+<img width="150px" src="https://user-images.githubusercontent.com/72108088/235106971-038b8b83-ec61-424b-b8b7-64f63761458b.png">
+</a>
