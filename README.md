@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p> -->
 <!-- <br>
 <br> -->
-I am Nizar, I am a full-stack engineer, I'm working as Technical Instructor  at Gaza Sky Geeks.
+Here is Nizar, I am a full-stack Developer, I'm working as Technical Instructor at Gaza Sky Geeks.
 <br/>
 
 I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/gazaskygeeks) 
@@ -70,4 +70,9 @@ I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/ga
 
 <a href="https://www.credly.com/badges/8bd81c16-646e-430b-bdfe-1af02fe9a2f1/public_url">
 <img width="150px" src="https://user-images.githubusercontent.com/72108088/235106971-038b8b83-ec61-424b-b8b7-64f63761458b.png">
+</a>
+
+
+<a href="https://www.credly.com/badges/6035d571-3bfd-42b3-bce7-bf5b8e37ae32/public_url">
+<img width="150px" src="https://user-images.githubusercontent.com/72108088/254238177-e17e055e-c579-4f1d-98af-55c5b4baca5b.png">
 </a>
