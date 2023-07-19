@@ -58,7 +58,7 @@ I am a code Academy graduated student  at [Gaza Sky Geeks](https://github.com/ga
 
 <div >
   <img align="left" width="50%" height="185em" src="https://github-readme-stats.vercel.app/api?username=Nizar7zak&theme=dark&show_icons=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7zak&hide_title=true&langs_count=4" /> </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7zak&hide_title=true&langs_count=5" /> </a>
  </div>
 <a href="https://www.credly.com/badges/787ad5b5-cea7-4c0f-84db-a804a7e123a2/public_url">
 <img width="150px" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png">
