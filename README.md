@@ -11,7 +11,7 @@ I am a Code Academy graduate at [Gaza Sky Geeks](https://github.com/gazaskygeeks
   - 🌱 &nbsp; Continuously learning about Backend and Frontend Development. 
 </div> 
 
-![age](https://img.shields.io/badge/age-[AGE_PLACEHOLDER]-blue)
+![age](https://img.shields.io/badge/age-[29]-blue)
 ![focus](https://img.shields.io/badge/focus-AWS-brightgreen)
 ![living](https://img.shields.io/badge/living-Palestine-3c9)
 
