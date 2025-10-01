@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is Nizar, I am a full-stack Developer, currently working as a Technical Instructor at Gaza Sky Geeks.
+Here is Nizar, I am a full-stack Developer, currently working as a Front-end engineer at Bayzat.
 
 I am a Code Academy graduate at [Gaza Sky Geeks](https://github.com/gazaskygeeks).
 
