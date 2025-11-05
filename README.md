@@ -1,6 +1,4 @@
-Read pasted-text.txtThought for 2sI'll transform your README into a beautifully formatted, visually impressive GitHub profile with better organization, styling, and visual elements!
 
-Enhanced README```markdown
 <div align="center">
   <h1>🚀 Hi there! I'm Nizar</h1>
   <p>
