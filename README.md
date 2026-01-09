@@ -6,7 +6,7 @@
   </p>
   <p>
     <a href="https://github.com/Nizar7zak"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Nizar7zak?style=social"></a>
-    <img alt="age" src="https://img.shields.io/badge/age-29-blue?style=flat-square">
+    <img alt="age" src="https://img.shields.io/badge/age-30-blue?style=flat-square">
     <img alt="focus" src="https://img.shields.io/badge/focus-FRONTEND-brightgreen?style=flat-square">
     <img alt="living" src="https://img.shields.io/badge/living-%F0%9F%87%AA%F0%9F%87%AC_Egypt-3c9?style=flat-square">
   </p>
@@ -74,15 +74,6 @@ I'm a passionate full-stack developer currently working as a **Front-end Enginee
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nizar7zak&theme=dark&show_icons=true&count_private=true&hide_border=true&bg_color=000000" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7zak&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages"/>
 </div>
 
 ---
