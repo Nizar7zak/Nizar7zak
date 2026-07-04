@@ -1,193 +1,229 @@
 <div align="center">
-  <h1>Hi, I'm Nezar Zakout</h1>
-  <h3>Full-Stack Developer building polished products with React, Next.js, AI, and cloud systems.</h3>
 
-  <p>
-    <a href="https://github.com/Nizar7zak">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nizar7zak?style=social">
-    </a>
-    <img alt="focus" src="https://img.shields.io/badge/focus-Product%20Engineering-16a34a?style=flat-square">
-    <img alt="stack" src="https://img.shields.io/badge/stack-React%20%7C%20Next.js%20%7C%20Node.js-2563eb?style=flat-square">
-    <img alt="cloud" src="https://img.shields.io/badge/cloud-AWS%20Certified-f59e0b?style=flat-square">
-    <img alt="location" src="https://img.shields.io/badge/living-Egypt-3c9?style=flat-square">
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Nezar+Zakout;Full-Stack+Developer;Product+%7C+AI+%7C+Cloud;Building+things+people+actually+use" alt="Typing intro" />
 
-  <p>
-    <a href="https://3d-portfolio-liart.vercel.app/">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/nezar-zakout/">LinkedIn</a> ·
-    <a href="https://github.com/Nizar7zak">GitHub</a> ·
-    <a href="mailto:nizar7zakout@gmail.com">Email</a>
-  </p>
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8b5cf6&height=120&section=header&text=Ship%20Fast.%20Design%20Sharp.%20Build%20Real.&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Header wave" />
+
+<br />
+
+<a href="https://github.com/Nizar7zak"><img src="https://img.shields.io/github/followers/Nizar7zak?style=for-the-badge&logo=github&color=181717&logoColor=white" alt="followers"/></a>
+<a href="https://www.linkedin.com/in/nezar-zakout/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:nizar7zakout@gmail.com"><img src="https://img.shields.io/badge/Email-nizar7zakout@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://3d-portfolio-liart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/📍_Egypt-Ismailia-3c9?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏢_Now-Bayzat-2563eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/☁️_AWS-4x_Certified-f59e0b?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓_Alumni-Gaza_Sky_Geeks-9333ea?style=flat-square"/>
+
 </div>
 
 ---
 
-## About Me
+### 👋 The short version
 
-I build products where design, engineering, and business value meet. My work spans full-stack SaaS, AI-powered platforms, bilingual websites, admin dashboards, AR experiences, and production deployments.
+I turn ideas into **live products** — from bilingual brand sites and admin dashboards to **AI platforms** and **AR experiences**.
 
-Currently, I'm a **Full-Stack Developer at Bayzat**, building scalable features with **Next.js, React, TypeScript, REST APIs, and modern frontend architecture**. Before that, I built AI products like **evnno** and **Dozny** at **Metachain**, delivered AR experiences in Switzerland with **A-LL Creative Technology**, and taught **200+ students** cloud and full-stack development at **Gaza Sky Geeks**.
+Right now I'm a **Full-Stack Developer at [Bayzat](https://bayzat.com)**, shipping with **Next.js · React · TypeScript · Node.js · AWS · Vercel**.
 
-```ts
-const nezar = {
-  role: "Full-Stack Developer",
-  focus: ["Product Engineering", "Frontend Architecture", "AI Products", "Cloud"],
-  current: "Bayzat",
-  stack: ["TypeScript", "React", "Next.js", "Node.js", "AWS", "Vercel"],
-  mindset: "Build useful products, keep the UX sharp, and make the codebase easier to grow.",
-};
+Previously I built **evnno** & **Dozny** at Metachain, crafted AR for Swiss events at A-LL Creative Technology, and taught **200+ developers** at Gaza Sky Geeks.
+
+<br />
+
+```typescript
+while (alive) {
+  learn(newTech);
+  ship(usefulProduct);
+  refactor(legacyCode);
+  mentor(juniors);
+}
 ```
 
 ---
 
-## What I Build
+### 🧭 What I do best
 
-- **Production web platforms** with Next.js, React, TypeScript, Node.js, and Vercel.
-- **AI-powered products** that turn manual workflows into fast, self-service systems.
-- **Business websites** with premium UI, bilingual content, dashboards, and CMS-style admin tools.
-- **AR and 3D experiences** using 8thWall, React Three Fiber, Three.js, Swift, and App Clips.
-- **Cloud-ready systems** with AWS knowledge, deployment discipline, and scalable foundations.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚀 Product Engineering**
+<br />
+Next.js apps, dashboards, CMS flows, bilingual UX, production deploys on Vercel.
+
+**🤖 AI Products**
+<br />
+evnno & Dozny — landing pages, campaign packs, Stripe, OpenAI, self-service workflows.
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 Brand & Web**
+<br />
+Premium sites for Saudi clients — legal, events, festivals, corporate, creative startups.
+
+**🥽 Immersive Tech**
+<br />
+8thWall · React Three Fiber · Three.js · Swift App Clips — when the web needs to feel magic.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Work
+### 🗂️ Selected Work
+
+<details open>
+<summary><b>🌍 Impact & Institutions</b></summary>
+<br />
+
+| | Project | Live |
+|:---:|:---|:---:|
+| 🏛️ | **Emergency Committee** — Gaza universities coordination platform | [**→**](https://www.gazauniversities.org/) |
+| ⚖️ | **LOI** — Saudi legal services, bilingual site + admin | [**→**](https://www.loi.sa/) |
+
+</details>
+
+<details open>
+<summary><b>🇸🇦 Saudi Brands & Agencies</b></summary>
+<br />
+
+| | Project | Live |
+|:---:|:---|:---:|
+| ✨ | **Herfa** — creative services, scroll-driven storytelling | [**→**](https://herfa-ymtv.vercel.app/) |
+| 🎪 | **4co** — events & marketing agency | [**→**](https://www.4co.sa/) |
+| 🎵 | **Saqeefa** — festival B2B sponsorship landing | [**→**](https://saqeefa-ch26.com/) |
+| 🏢 | **AZR** — corporate site + admin + maps | [**→**](https://azr-brown.vercel.app/) |
+| 💡 | **iMinds** — Framer business site | [**→**](https://www.iminds.sa/) |
+| 🔷 | **Cons** — Framer business site | [**→**](https://www.cons.sa/) |
+
+</details>
+
+<details open>
+<summary><b>🤖 AI Platforms</b></summary>
+<br />
+
+| | Project | Live |
+|:---:|:---|:---:|
+| ⚡ | **evnno** — AI landing pages for freelancers | [**→**](https://www.evnno.com/) |
+| 🎨 | **Dozny** — AI campaign platform for creators | [**→**](https://www.dozny.com/) |
+
+</details>
+
+<details>
+<summary><b>🎮 Side Builds & Experiments</b></summary>
+<br />
+
+| | Project | Live |
+|:---:|:---|:---:|
+| 🏀 | **BounceGame** — interactive browser game | [**→**](https://bounce-game-roan.vercel.app/) |
+| 🕹️ | **GameHub** — game discovery via RAWG API | [**→**](https://game-hub-zeta-lilac-15.vercel.app/) |
+
+</details>
+
+---
+
+### 🛤️ Career Timeline
+
+```
+2025 ──●── Bayzat · Full-Stack Developer · Next.js · React · TypeScript
+         │
+2024 ──●─┴─ Metachain · Built evnno & Dozny · AI · Stripe · AWS
+         │
+2023 ──●── A-LL Creative Technology · AR · 8thWall · R3F · Swift
+         │
+2022 ──●── Gaza Sky Geeks · AWS Instructor · 200+ students
+```
+
+---
+
+### 🛠️ Arsenal
 
 <div align="center">
 
-| Project | What it is | Live |
-|---|---|---|
-| **Emergency Committee** | Platform for Gaza universities' emergency coordination and international support | [Visit](https://www.gazauniversities.org/) |
-| **Herfa** | Creative Saudi services website with smooth scroll-based storytelling | [Visit](https://herfa-ymtv.vercel.app/) |
-| **4co** | Bilingual events and marketing agency website for Saudi clients | [Visit](https://www.4co.sa/) |
-| **iMinds** | Framer business website | [Visit](https://www.iminds.sa/) |
-| **Cons** | Framer business website | [Visit](https://www.cons.sa/) |
-| **AZR** | Corporate website with contact forms, maps, and admin dashboard | [Visit](https://azr-brown.vercel.app/) |
-| **Saqeefa** | B2B sponsorship landing page for Saqeefa Summer Festival 2026 | [Visit](https://saqeefa-ch26.com/) |
-| **LOI** | Saudi legal services website with bilingual content and admin dashboard | [Visit](https://www.loi.sa/) |
-| **evnno** | AI landing page platform for freelancers and local businesses | [Visit](https://www.evnno.com/) |
-| **Dozny** | AI campaign and creative platform for creators selling client work | [Visit](https://www.dozny.com/) |
-| **BounceGame** | Interactive browser game | [Visit](https://bounce-game-roan.vercel.app/) |
-| **GameHub** | Game discovery app powered by external game data | [Visit](https://game-hub-zeta-lilac-15.vercel.app/) |
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,threejs,aws,docker,git,vercel&perline=6" alt="Tech stack icons" />
+
+<br /><br />
+
+`SQL` · `Express.js` · `Zustand` · `Redux` · `React Query` · `Stripe` · `OpenAI` · `Framer` · `Make.com` · `GitHub Actions`
 
 </div>
 
 ---
 
-## Experience Snapshot
+### 🏆 AWS Certified ×4
 
 <div align="center">
 
-| Role | Company | Period | Focus |
-|---|---|---:|---|
-| **Full-Stack Developer** | **Bayzat** | 2025 - Present | Next.js, React, APIs, TypeScript, scalable product features |
-| **Full-Stack Developer** | **Metachain** | 2024 - 2025 | evnno, Dozny, AI products, Stripe, AWS, Vercel |
-| **Front-End Developer** | **A-LL Creative Technology** | 2023 | AR, 8thWall, React Three Fiber, Swift App Clips |
-| **AWS Credited Instructor** | **Gaza Sky Geeks** | 2022 - 2023 | AWS, React, Express.js, mentoring 200+ learners |
+<a href="https://www.credly.com/badges/787ad5b5-cea7-4c0f-84db-a804a7e123a2/public_url"><img width="120" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png" alt="Cloud Practitioner"/></a>
+<a href="https://www.credly.com/badges/86e4acda-da36-4c17-ad5a-3e004e38d257/public_url"><img width="120" src="https://user-images.githubusercontent.com/72108088/187437809-9cea7190-01c7-482e-81fc-f888e3782824.png" alt="Solutions Architect"/></a>
+<a href="https://www.credly.com/badges/6035d571-3bfd-42b3-bce7-bf5b8e37ae32/public_url"><img width="120" src="https://user-images.githubusercontent.com/72108088/254238177-e17e055e-c579-4f1d-98af-55c5b4baca5b.png" alt="Developer Associate"/></a>
+<a href="https://www.credly.com/badges/8bd81c16-646e-430b-bdfe-1af02fe9a2f1/public_url"><img width="120" src="https://user-images.githubusercontent.com/72108088/235106971-038b8b83-ec61-424b-b8b7-64f63761458b.png" alt="AWS Instructor"/></a>
 
 </div>
 
 ---
 
-## Tech Stack
+### 💬 Voices
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="46" alt="JavaScript" />
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="46" alt="TypeScript" />
-        <br><strong>TypeScript</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="46" alt="React" />
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="46" alt="Next.js" />
-        <br><strong>Next.js</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="46" alt="Node.js" />
-        <br><strong>Node.js</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="46" alt="Python" />
-        <br><strong>Python</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/threejs/threejs.png" width="46" alt="Three.js" />
-        <br><strong>Three.js</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="46" alt="AWS" />
-        <br><strong>AWS</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="46" alt="Docker" />
-        <br><strong>Docker</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="46" alt="Git" />
-        <br><strong>Git</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
+<td width="50%">
 
-**Also working with:** SQL, Express.js, Zustand, Redux, React Query, GitHub Actions, Vercel, Make.com, Framer, Wix, Claude, OpenAI, Stripe.
-
----
-
-## AWS Certifications
-
-<div align="center">
-  <a href="https://www.credly.com/badges/787ad5b5-cea7-4c0f-84db-a804a7e123a2/public_url" target="_blank">
-    <img width="130" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png" alt="AWS Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/86e4acda-da36-4c17-ad5a-3e004e38d257/public_url" target="_blank">
-    <img width="130" src="https://user-images.githubusercontent.com/72108088/187437809-9cea7190-01c7-482e-81fc-f888e3782824.png" alt="AWS Solutions Architect Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/8bd81c16-646e-430b-bdfe-1af02fe9a2f1/public_url" target="_blank">
-    <img width="130" src="https://user-images.githubusercontent.com/72108088/235106971-038b8b83-ec61-424b-b8b7-64f63761458b.png" alt="AWS re/Start Accredited Instructor" />
-  </a>
-  <a href="https://www.credly.com/badges/6035d571-3bfd-42b3-bce7-bf5b8e37ae32/public_url" target="_blank">
-    <img width="130" src="https://user-images.githubusercontent.com/72108088/254238177-e17e055e-c579-4f1d-98af-55c5b4baca5b.png" alt="AWS Developer Associate" />
-  </a>
-</div>
-
----
-
-## What People Say
-
-> "Nezar demonstrated exceptional dedication, enthusiasm, and an impressive ability to research and develop in the Web AR domain."
+> *"Exceptional dedication and an impressive ability to research and develop in the Web AR domain... surpassed our expectations with rapid progress and innovative thinking."*
 >
-> **Laurent Rime** — CEO, A-LL Creative Technology
+> — **Laurent Rime** · CEO, A-LL Creative Technology
 
-> "Nizar has shown a drive to learn new technologies and apply them to real-world problems... thoughtful and pragmatic, and asks the right questions."
+</td>
+<td width="50%">
+
+> *"A drive to learn new technologies and apply them to real-world problems... thoughtful, pragmatic, and asks the right questions."*
 >
-> **Tom Duggan** — Senior Software Engineer, Anduril Industries
+> — **Tom Duggan** · Sr. Software Engineer, Anduril
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Pulse
+### 📊 GitHub Pulse
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nizar7zak&show_icons=true&theme=tokyonight&hide_border=true" alt="Nezar's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7zak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nizar7zak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nizar7zak&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7zak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="langs"/>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Nizar7zak&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>Let's build something useful, fast, and beautiful.</h3>
-  <p>
-    <a href="mailto:nizar7zakout@gmail.com">Email me</a> ·
-    <a href="https://www.linkedin.com/in/nezar-zakout/">Connect on LinkedIn</a> ·
-    <a href="https://github.com/Nizar7zak">Follow on GitHub</a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8b5cf6&height=100&section=footer&fontSize=14&fontColor=ffffff" alt="Footer wave"/>
+
+<br />
+
+**Got an idea worth shipping? Let's talk.**
+
+<br />
+
+<a href="mailto:nizar7zakout@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nezar-zakout/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Nizar7zak"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br /><br />
+
+<i>Built with curiosity. Deployed with care. Refactored with love.</i>
+
 </div>
