@@ -108,14 +108,6 @@
 
 <br />
 
-## ⚡ The Operating System
-
-I build products where **business value, interface craft, and engineering discipline** collide.
-
-From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR experiments. I own the whole path: **idea → UX → architecture → code → deploy → iterate.**
-
-<br />
-
 ## 🛤️ The Road So Far
 
 ```text
