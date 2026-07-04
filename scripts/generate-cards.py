@@ -24,8 +24,8 @@ PROJECTS = [
     {
         "id": "bayzat",
         "name": "Bayzat",
-        "desc": "AI app builder + agentic cowork layer on Bayzat's work-life platform",
-        "desc2": "Next.js · TypeScript · v0-style builder · agentic tools shipped to production",
+        "desc": "Core team on Bayzat's AI app builder, shipping prompt-to-product tooling integrated with the platform",
+        "desc2": "Built a lean agentic cowork layer embedded in Bayzat's system for in-platform workflows",
         "tags": ["Enterprise AI", "Full-stack @ Bayzat"],
         "accent": "#8b5cf6",
         "logo_url": "https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg",
