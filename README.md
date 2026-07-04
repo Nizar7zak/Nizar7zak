@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Nezar+Zakout;Full-Stack+Developer;Product+%7C+AI+%7C+Cloud;Building+things+people+actually+use" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Nezar+Zakout;Full-Stack+Developer;Product+%7C+AI+%7C+Cloud;Building+things+people+actually+use" alt="Typing intro" />
 
 <br />
 
@@ -196,13 +196,13 @@ Premium sites for Saudi clients — legal, events, festivals, corporate, creativ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nizar7zak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nizar7zak&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="streak"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar7zak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="langs"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nizar7zak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Nizar7zak&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub streak"/>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nizar7zak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top languages"/>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Nizar7zak&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Nizar7zak&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
