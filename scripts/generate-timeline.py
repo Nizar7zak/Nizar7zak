@@ -1,118 +1,123 @@
 #!/usr/bin/env python3
-"""Generate timeline SVG for GitHub profile README."""
+"""Generate native HTML timeline block for GitHub profile README."""
 
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "assets" / "timeline.svg"
-
-W, H = 920, 400
+OUT = ROOT / "assets" / "timeline.html"
 
 STOPS = [
     {
         "year": "2025",
         "company": "Bayzat",
+        "flag": "🇦🇪",
         "desc": "Full-stack product work · AI builder · agentic cowork",
         "tags": ["Next.js", "TypeScript", "AI"],
-        "accent": "#8b5cf6",
-        "flag": "🇦🇪",
+        "accent": "8b5cf6",
+        "line": "6366f1",
         "current": True,
     },
     {
         "year": "2024",
         "company": "Metachain",
+        "flag": "",
         "desc": "Built evnno + Dozny · AI generation · Stripe · AWS",
         "tags": ["SaaS", "OpenAI", "AWS"],
-        "accent": "#6366f1",
-        "flag": "",
+        "accent": "6366f1",
+        "line": "3b82f6",
     },
     {
         "year": "2023",
         "company": "A-LL Creative Technology",
+        "flag": "🇨🇭",
         "desc": "Web AR for Swiss museums · 8thWall · R3F · Swift App Clips",
         "tags": ["Web AR", "Three.js", "Swift"],
-        "accent": "#3b82f6",
-        "flag": "🇨🇭",
+        "accent": "3b82f6",
+        "line": "10b981",
     },
     {
         "year": "2022",
         "company": "Gaza Sky Geeks",
+        "flag": "🇵🇸",
         "desc": "AWS Instructor · React/Express mentor · 200+ students",
         "tags": ["AWS", "React", "Teaching"],
-        "accent": "#10b981",
-        "flag": "🇵🇸",
+        "accent": "10b981",
+        "line": None,
     },
 ]
 
 
-def tag_row(tags: list[str], x: int, y: int, accent: str) -> str:
-    parts = []
-    cx = x
-    for tag in tags:
-        tw = len(tag) * 6.2 + 16
-        parts.append(
-            f'<rect x="{cx}" y="{y}" width="{tw}" height="18" rx="9" fill="{accent}" fill-opacity="0.22" stroke="{accent}" stroke-opacity="0.5"/>'
-            f'<text x="{cx + 8}" y="{y + 13}" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" fill="#ffffff">{tag}</text>'
+def year_shield(year: str, color: str) -> str:
+    return (
+        f'<img src="https://img.shields.io/badge/{year}-{year}-{color}'
+        f'?style=flat-square&labelColor={color}&color=ffffff" alt="{year}"/>'
+    )
+
+
+def tag_shield(tag: str, color: str) -> str:
+    slug = tag.replace(" ", "%20").replace(".", "%2E")
+    return (
+        f'<img src="https://img.shields.io/badge/{slug}-ffffff?style=flat-square'
+        f'&labelColor={color}&color=ffffff" alt="{tag}"/>'
+    )
+
+
+from typing import Optional
+
+
+def dot_cell(accent: str, current: bool, line: Optional[str]) -> str:
+    glow = ""
+    if current:
+        glow = (
+            f'<span style="color:#{accent};font-size:28px;line-height:1;opacity:0.35">◉</span><br/>'
         )
-        cx += tw + 6
-    return "\n    ".join(parts)
+    dot = f'<span style="color:#{accent};font-size:18px;line-height:1">●</span>'
+    spine = ""
+    if line:
+        spine = (
+            f'<table cellpadding="0" cellspacing="0" align="center" style="margin-top:2px">'
+            f'<tr><td width="3" height="58" bgcolor="#{line}"></td></tr></table>'
+        )
+    return (
+        f'<td width="56" align="center" valign="top" style="padding-top:2px">'
+        f"{glow}{dot}{spine}</td>"
+    )
 
 
-def stop_row(i: int, s: dict) -> str:
-    y = 72 + i * 82
-    cy = y + 28
-    accent = s["accent"]
-    flag = f' {s["flag"]}' if s.get("flag") else ""
-    pulse = ""
-    if s.get("current"):
-        pulse = f"""
-    <circle cx="56" cy="{cy}" r="16" fill="{accent}" fill-opacity="0.15"/>
-    <circle cx="56" cy="{cy}" r="11" fill="{accent}" fill-opacity="0.35"/>"""
-
-    return f"""
-  {pulse}
-  <circle cx="56" cy="{cy}" r="7" fill="{accent}"/>
-  <circle cx="56" cy="{cy}" r="4" fill="#ffffff"/>
-  <rect x="78" y="{y}" width="96" height="24" rx="12" fill="{accent}" fill-opacity="0.2" stroke="{accent}" stroke-opacity="0.55"/>
-  <text x="126" y="{y + 17}" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="{accent}">{s['year']}</text>
-  <text x="190" y="{y + 18}" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#f8fafc">{s['company']}{flag}</text>
-  <text x="190" y="{y + 40}" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">{s['desc']}</text>
-  {tag_row(s['tags'], 190, y + 50, accent)}"""
+def entry_row(stop: dict, last: bool) -> str:
+    flag = f" {stop['flag']}" if stop.get("flag") else ""
+    accent = stop["accent"]
+    line = None if last else stop.get("line")
+    tags = " ".join(tag_shield(t, accent) for t in stop["tags"])
+    year = year_shield(stop["year"], accent)
+    return f"""<tr>
+{dot_cell(accent, stop.get("current", False), line)}
+<td valign="top" style="padding-bottom:14px">
+{year} <strong>{stop['company']}{flag}</strong><br/>
+<sub>{stop['desc']}</sub><br/>
+{tags}
+</td>
+</tr>"""
 
 
 def main() -> None:
-    rows = "\n".join(stop_row(i, s) for i, s in enumerate(STOPS))
-    line_end = 72 + (len(STOPS) - 1) * 82 + 28
+    rows = "\n".join(
+        entry_row(s, i == len(STOPS) - 1) for i, s in enumerate(STOPS)
+    )
+    html = f"""<div align="center">
 
-    svg = f"""<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg-grad" x1="0" y1="0" x2="{W}" y2="{H}" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8b5cf6" stop-opacity="0.75"/>
-      <stop offset="0.55" stop-color="#6366f1" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#06b6d4" stop-opacity="0.65"/>
-    </linearGradient>
-    <linearGradient id="line-grad" x1="56" y1="72" x2="56" y2="{line_end}" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8b5cf6"/>
-      <stop offset="0.5" stop-color="#6366f1"/>
-      <stop offset="1" stop-color="#10b981"/>
-    </linearGradient>
-    <style>
-      @keyframes pulse {{
-        0%, 100% {{ opacity: 0.35; r: 11; }}
-        50% {{ opacity: 0.15; r: 18; }}
-      }}
-      .live {{ animation: pulse 2.4s ease-in-out infinite; }}
-    </style>
-  </defs>
-  <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="16" fill="#14141f"/>
-  <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="16" fill="url(#bg-grad)" fill-opacity="0.08"/>
-  <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="16.5" stroke="url(#bg-grad)" stroke-opacity="0.65"/>
-  <text x="890" y="38" text-anchor="end" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#64748b">2022 → NOW</text>
-  <line x1="56" y1="72" x2="56" y2="{line_end}" stroke="url(#line-grad)" stroke-width="3" stroke-linecap="round"/>
-  {rows}
-</svg>
+<table width="920" cellpadding="0" cellspacing="0" style="table-layout:fixed;">
+<tr><td bgcolor="#14141f" style="border:2px solid #6366f1;border-radius:16px;padding:10px 16px 6px">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td colspan="2" align="right"><sub>2022 → NOW</sub></td></tr>
+{rows}
+</table>
+</td></tr>
+</table>
+
+</div>
 """
-    OUT.write_text(svg, encoding="utf-8")
+    OUT.write_text(html, encoding="utf-8")
     print(f"wrote {OUT.name}")
 
 
