@@ -32,24 +32,24 @@ From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR expe
 <tr>
 <td style="background:#3a3a3c;padding:10px 14px;border-radius:10px 10px 0 0;font-family:ui-monospace,monospace;font-size:12px;color:#98989d;border:1px solid #484848;border-bottom:none;">
 <span style="color:#ff5f57;font-size:15px;line-height:1">●</span> <span style="color:#febc2e;font-size:15px;line-height:1">●</span> <span style="color:#28c840;font-size:15px;line-height:1">●</span>
-&nbsp;&nbsp;&nbsp;<span style="color:#d1d1d6">nezar.zakout.ts — zsh — 80×24</span>
+&nbsp;&nbsp;&nbsp;<span style="color:#d1d1d6">nezar.zakout.ts</span>
 </td>
 </tr>
 <tr>
 <td style="background:#1e1e1e;padding:16px 18px;border-radius:0 0 10px 10px;font-family:ui-monospace,monospace;font-size:13px;line-height:1.55;border:1px solid #484848;border-top:none;">
-<pre style="margin:0;white-space:pre-wrap;word-wrap:break-word;color:#d4d4d4;"><span style="color:#6a9955">nezar@macbook</span><span style="color:#d4d4d4">:</span><span style="color:#569cd6">~/portfolio</span><span style="color:#d4d4d4"> $ </span><span style="color:#dcdcaa">cat</span> nezar.zakout.ts
+<div style="margin:0;white-space:pre-wrap;word-wrap:break-word;"><font color="#50fa7b">nezar@macbook</font><font color="#f8f8f2">:</font><font color="#8be9fd">~/portfolio</font><font color="#f8f8f2"> $ </font><font color="#f1fa8c">cat</font><font color="#f8f8f2"> nezar.zakout.ts</font>
 
-<span style="color:#569cd6">class</span> <span style="color:#4ec9b0">NezarZakout</span> <span style="color:#569cd6">extends</span> <span style="color:#4ec9b0">Developer</span> {
-  <span style="color:#9cdcfe">role</span>      = <span style="color:#ce9178">"Full-Stack Developer @ Bayzat"</span>;
-  <span style="color:#9cdcfe">shipped</span>   = <span style="color:#b5cea8">12</span>;             <span style="color:#6a9955">// live products in production</span>
-  <span style="color:#9cdcfe">trained</span>   = <span style="color:#b5cea8">200</span>;            <span style="color:#6a9955">// developers mentored @ Gaza Sky Geeks</span>
-  <span style="color:#9cdcfe">certified</span> = [<span style="color:#ce9178">"AWS ×4"</span>];
-  <span style="color:#9cdcfe">weapons</span>   = [<span style="color:#ce9178">"No ego, don't fear the hard build"</span>, <span style="color:#ce9178">"Next.js"</span>, <span style="color:#ce9178">"React"</span>, <span style="color:#ce9178">"TypeScript"</span>, <span style="color:#ce9178">"Node.js"</span>, <span style="color:#ce9178">"AWS"</span>, <span style="color:#ce9178">"OpenAI"</span>];
+<font color="#ff79c6">class</font> <font color="#50fa7b">NezarZakout</font> <font color="#ff79c6">extends</font> <font color="#50fa7b">Developer</font> <font color="#f8f8f2">{
+  </font><font color="#8be9fd">role</font><font color="#f8f8f2">      = </font><font color="#f1fa8c">"Full-Stack Developer @ Bayzat"</font><font color="#f8f8f2">;
+  </font><font color="#8be9fd">shipped</font><font color="#f8f8f2">   = </font><font color="#bd93f9">12</font><font color="#f8f8f2">;             </font><font color="#6272a4">// live products in production</font><font color="#f8f8f2">
+  </font><font color="#8be9fd">trained</font><font color="#f8f8f2">   = </font><font color="#bd93f9">200</font><font color="#f8f8f2">;            </font><font color="#6272a4">// developers mentored @ Gaza Sky Geeks</font><font color="#f8f8f2">
+  </font><font color="#8be9fd">certified</font><font color="#f8f8f2"> = [</font><font color="#f1fa8c">"AWS ×4"</font><font color="#f8f8f2">];
+  </font><font color="#8be9fd">weapons</font><font color="#f8f8f2">   = [</font><font color="#f1fa8c">"No ego, don't fear the hard build"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"Next.js"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"React"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"TypeScript"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"Node.js"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"AWS"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"OpenAI"</font><font color="#f8f8f2">];
 
-  <span style="color:#dcdcaa">philosophy</span>() {
-    <span style="color:#569cd6">return</span> <span style="color:#ce9178">"Move fast without making the codebase harder to live in."</span>;
+  </font><font color="#50fa7b">philosophy</font><font color="#f8f8f2">() {
+    </font><font color="#ff79c6">return</font><font color="#f8f8f2"> </font><font color="#f1fa8c">"Move fast without making the codebase harder to live in."</font><font color="#f8f8f2">;
   }
-}</pre>
+}</font></div>
 </td>
 </tr>
 </table>
