@@ -28,31 +28,11 @@ I build products where **business value, interface craft, and engineering discip
 
 From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR experiments. I own the whole path: **idea → UX → architecture → code → deploy → iterate.**
 
-<table width="100%" style="border-collapse:separate;border-spacing:0;">
-<tr>
-<td style="background:#3a3a3c;padding:10px 14px;border-radius:10px 10px 0 0;font-family:ui-monospace,monospace;font-size:12px;color:#98989d;border:1px solid #484848;border-bottom:none;">
-<span style="color:#ff5f57;font-size:15px;line-height:1">●</span> <span style="color:#febc2e;font-size:15px;line-height:1">●</span> <span style="color:#28c840;font-size:15px;line-height:1">●</span>
-&nbsp;&nbsp;&nbsp;<span style="color:#d1d1d6">nezar.zakout.ts</span>
-</td>
-</tr>
-<tr>
-<td style="background:#1e1e1e;padding:16px 18px;border-radius:0 0 10px 10px;font-family:ui-monospace,monospace;font-size:13px;line-height:1.55;border:1px solid #484848;border-top:none;">
-<div style="margin:0;white-space:pre-wrap;word-wrap:break-word;"><font color="#50fa7b">nezar@macbook</font><font color="#f8f8f2">:</font><font color="#8be9fd">~/portfolio</font><font color="#f8f8f2"> $ </font><font color="#f1fa8c">cat</font><font color="#f8f8f2"> nezar.zakout.ts</font>
+<div align="center">
 
-<font color="#ff79c6">class</font> <font color="#50fa7b">NezarZakout</font> <font color="#ff79c6">extends</font> <font color="#50fa7b">Developer</font> <font color="#f8f8f2">{
-  </font><font color="#8be9fd">role</font><font color="#f8f8f2">      = </font><font color="#f1fa8c">"Full-Stack Developer @ Bayzat"</font><font color="#f8f8f2">;
-  </font><font color="#8be9fd">shipped</font><font color="#f8f8f2">   = </font><font color="#bd93f9">12</font><font color="#f8f8f2">;             </font><font color="#6272a4">// live products in production</font><font color="#f8f8f2">
-  </font><font color="#8be9fd">trained</font><font color="#f8f8f2">   = </font><font color="#bd93f9">200</font><font color="#f8f8f2">;            </font><font color="#6272a4">// developers mentored @ Gaza Sky Geeks</font><font color="#f8f8f2">
-  </font><font color="#8be9fd">certified</font><font color="#f8f8f2"> = [</font><font color="#f1fa8c">"AWS ×4"</font><font color="#f8f8f2">];
-  </font><font color="#8be9fd">weapons</font><font color="#f8f8f2">   = [</font><font color="#f1fa8c">"No ego, don't fear the hard build"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"Next.js"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"React"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"TypeScript"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"Node.js"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"AWS"</font><font color="#f8f8f2">, </font><font color="#f1fa8c">"OpenAI"</font><font color="#f8f8f2">];
+<img width="100%" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/terminal.svg" alt="Terminal: class NezarZakout extends Developer" />
 
-  </font><font color="#50fa7b">philosophy</font><font color="#f8f8f2">() {
-    </font><font color="#ff79c6">return</font><font color="#f8f8f2"> </font><font color="#f1fa8c">"Move fast without making the codebase harder to live in."</font><font color="#f8f8f2">;
-  }
-}</font></div>
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 

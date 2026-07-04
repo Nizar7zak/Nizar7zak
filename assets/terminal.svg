@@ -1,0 +1,87 @@
+<svg width="920" height="470" viewBox="0 0 920 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="920" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4f46e5" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#8b5cf6" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0.35"/>
+    </linearGradient>
+    <clipPath id="window">
+      <rect x="20" y="14" width="880" height="440" rx="14"/>
+    </clipPath>
+    <style>
+      .t { font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace; font-size: 15px; }
+      .title { font-family: 'SF Mono', Menlo, Consolas, monospace; font-size: 13px; }
+      .fg   { fill: #f8f8f2; }
+      .cmt  { fill: #6272a4; }
+      .kw   { fill: #ff79c6; }
+      .cls  { fill: #50fa7b; }
+      .prop { fill: #8be9fd; }
+      .str  { fill: #f1fa8c; }
+      .num  { fill: #bd93f9; }
+      .fn   { fill: #50fa7b; }
+      .prompt { fill: #50fa7b; }
+      .path { fill: #8be9fd; }
+      .cursor { fill: #f8f8f2; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      .cursor { animation: blink 1.1s step-end infinite; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+      .l1  { animation: fadeUp 0.4s ease-out 0.10s both; }
+      .l2  { animation: fadeUp 0.4s ease-out 0.35s both; }
+      .l3  { animation: fadeUp 0.4s ease-out 0.50s both; }
+      .l4  { animation: fadeUp 0.4s ease-out 0.65s both; }
+      .l5  { animation: fadeUp 0.4s ease-out 0.80s both; }
+      .l6  { animation: fadeUp 0.4s ease-out 0.95s both; }
+      .l7  { animation: fadeUp 0.4s ease-out 1.10s both; }
+      .l8  { animation: fadeUp 0.4s ease-out 1.25s both; }
+      .l9  { animation: fadeUp 0.4s ease-out 1.40s both; }
+      .l10 { animation: fadeUp 0.4s ease-out 1.55s both; }
+      .l11 { animation: fadeUp 0.4s ease-out 1.70s both; }
+      .l12 { animation: fadeUp 0.4s ease-out 1.85s both; }
+      .l13 { animation: fadeUp 0.4s ease-out 2.00s both; }
+    </style>
+  </defs>
+
+  <!-- ambient glow -->
+  <rect x="0" y="0" width="920" height="470" rx="20" fill="url(#glow)"/>
+
+  <!-- window -->
+  <g clip-path="url(#window)">
+    <rect x="20" y="14" width="880" height="440" rx="14" fill="#282a36"/>
+    <!-- title bar -->
+    <rect x="20" y="14" width="880" height="44" fill="#1e1f29"/>
+    <circle cx="48" cy="36" r="7" fill="#ff5f57"/>
+    <circle cx="72" cy="36" r="7" fill="#febc2e"/>
+    <circle cx="96" cy="36" r="7" fill="#28c840"/>
+    <text x="460" y="41" text-anchor="middle" class="title" fill="#9ca3af">nezar.zakout.ts</text>
+  </g>
+  <rect x="20.5" y="14.5" width="879" height="439" rx="13.5" stroke="#44475a" fill="none"/>
+
+  <!-- code -->
+  <g class="t">
+    <text x="52" y="92" class="l1"><tspan class="prompt">nezar@macbook</tspan><tspan class="fg">:</tspan><tspan class="path">~/portfolio</tspan><tspan class="fg"> $ </tspan><tspan class="str">cat</tspan><tspan class="fg"> nezar.zakout.ts</tspan></text>
+
+    <text x="52" y="132" class="l2"><tspan class="kw">class</tspan><tspan class="fg"> </tspan><tspan class="cls">NezarZakout</tspan><tspan class="fg"> </tspan><tspan class="kw">extends</tspan><tspan class="fg"> </tspan><tspan class="cls">Developer</tspan><tspan class="fg"> {</tspan></text>
+
+    <text x="84" y="162" class="l3"><tspan class="prop">role</tspan><tspan class="fg">      = </tspan><tspan class="str">"Full-Stack Developer @ Bayzat"</tspan><tspan class="fg">;</tspan></text>
+
+    <text x="84" y="192" class="l4"><tspan class="prop">shipped</tspan><tspan class="fg">   = </tspan><tspan class="num">12</tspan><tspan class="fg">;    </tspan><tspan class="cmt">// live products in production</tspan></text>
+
+    <text x="84" y="222" class="l5"><tspan class="prop">trained</tspan><tspan class="fg">   = </tspan><tspan class="num">200</tspan><tspan class="fg">;   </tspan><tspan class="cmt">// devs mentored @ Gaza Sky Geeks</tspan></text>
+
+    <text x="84" y="252" class="l6"><tspan class="prop">certified</tspan><tspan class="fg"> = [</tspan><tspan class="str">"AWS ×4"</tspan><tspan class="fg">];</tspan></text>
+
+    <text x="84" y="282" class="l7"><tspan class="prop">weapons</tspan><tspan class="fg">   = [</tspan><tspan class="str">"Next.js"</tspan><tspan class="fg">, </tspan><tspan class="str">"React"</tspan><tspan class="fg">, </tspan><tspan class="str">"TypeScript"</tspan><tspan class="fg">, </tspan><tspan class="str">"Node.js"</tspan><tspan class="fg">, </tspan><tspan class="str">"AWS"</tspan><tspan class="fg">, </tspan><tspan class="str">"OpenAI"</tspan><tspan class="fg">];</tspan></text>
+
+    <text x="84" y="312" class="l8"><tspan class="prop">mindset</tspan><tspan class="fg">   = </tspan><tspan class="str">"No ego, don't fear the hard build"</tspan><tspan class="fg">;</tspan></text>
+
+    <text x="84" y="352" class="l9"><tspan class="fn">philosophy</tspan><tspan class="fg">() {</tspan></text>
+
+    <text x="116" y="382" class="l10"><tspan class="kw">return</tspan><tspan class="fg"> </tspan><tspan class="str">"Move fast without making the codebase harder to live in."</tspan><tspan class="fg">;</tspan></text>
+
+    <text x="84" y="412" class="l11"><tspan class="fg">}</tspan></text>
+
+    <text x="52" y="442" class="l12"><tspan class="fg">}</tspan></text>
+
+    <rect x="76" y="430" width="10" height="18" class="cursor l13"/>
+  </g>
+</svg>
