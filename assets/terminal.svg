@@ -68,7 +68,7 @@
 
     <text x="84" y="222" class="l5"><tspan class="prop">trained</tspan><tspan class="fg">   = </tspan><tspan class="num">200</tspan><tspan class="fg">;   </tspan><tspan class="cmt">// devs mentored @ Gaza Sky Geeks</tspan></text>
 
-    <text x="84" y="252" class="l6"><tspan class="prop">certified</tspan><tspan class="fg"> = [</tspan><tspan class="str">"AWS ×4"</tspan><tspan class="fg">];</tspan></text>
+    <text x="84" y="252" class="l6"><tspan class="prop">certified</tspan><tspan class="fg"> = [</tspan><tspan class="str">"AWS &#215;4"</tspan><tspan class="fg">];</tspan></text>
 
     <text x="84" y="282" class="l7"><tspan class="prop">weapons</tspan><tspan class="fg">   = [</tspan><tspan class="str">"Next.js"</tspan><tspan class="fg">, </tspan><tspan class="str">"React"</tspan><tspan class="fg">, </tspan><tspan class="str">"TypeScript"</tspan><tspan class="fg">, </tspan><tspan class="str">"Node.js"</tspan><tspan class="fg">, </tspan><tspan class="str">"AWS"</tspan><tspan class="fg">, </tspan><tspan class="str">"OpenAI"</tspan><tspan class="fg">];</tspan></text>
 
