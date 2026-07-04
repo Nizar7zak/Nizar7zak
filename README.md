@@ -28,19 +28,31 @@ I build products where **business value, interface craft, and engineering discip
 
 From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR experiments. I own the whole path: **idea → UX → architecture → code → deploy → iterate.**
 
-```typescript
-class NezarZakout extends Developer {
-  role      = "Full-Stack Developer @ Bayzat";
-  shipped   = 12;             // live products in production
-  trained   = 200;            // developers mentored @ Gaza Sky Geeks
-  certified = ["AWS ×4"];
-  weapons   = ["No ego, don't fear the hard build", "Next.js", "React", "TypeScript", "Node.js", "AWS", "OpenAI"];
+<table width="100%" style="border-collapse:separate;border-spacing:0;">
+<tr>
+<td style="background:#3a3a3c;padding:10px 14px;border-radius:10px 10px 0 0;font-family:ui-monospace,monospace;font-size:12px;color:#98989d;border:1px solid #484848;border-bottom:none;">
+<span style="color:#ff5f57;font-size:15px;line-height:1">●</span> <span style="color:#febc2e;font-size:15px;line-height:1">●</span> <span style="color:#28c840;font-size:15px;line-height:1">●</span>
+&nbsp;&nbsp;&nbsp;<span style="color:#d1d1d6">nezar.zakout.ts — zsh — 80×24</span>
+</td>
+</tr>
+<tr>
+<td style="background:#1e1e1e;padding:16px 18px;border-radius:0 0 10px 10px;font-family:ui-monospace,monospace;font-size:13px;line-height:1.55;border:1px solid #484848;border-top:none;">
+<pre style="margin:0;white-space:pre-wrap;word-wrap:break-word;color:#d4d4d4;"><span style="color:#6a9955">nezar@macbook</span><span style="color:#d4d4d4">:</span><span style="color:#569cd6">~/portfolio</span><span style="color:#d4d4d4"> $ </span><span style="color:#dcdcaa">cat</span> nezar.zakout.ts
 
-  philosophy() {
-    return "Move fast without making the codebase harder to live in.";
+<span style="color:#569cd6">class</span> <span style="color:#4ec9b0">NezarZakout</span> <span style="color:#569cd6">extends</span> <span style="color:#4ec9b0">Developer</span> {
+  <span style="color:#9cdcfe">role</span>      = <span style="color:#ce9178">"Full-Stack Developer @ Bayzat"</span>;
+  <span style="color:#9cdcfe">shipped</span>   = <span style="color:#b5cea8">12</span>;             <span style="color:#6a9955">// live products in production</span>
+  <span style="color:#9cdcfe">trained</span>   = <span style="color:#b5cea8">200</span>;            <span style="color:#6a9955">// developers mentored @ Gaza Sky Geeks</span>
+  <span style="color:#9cdcfe">certified</span> = [<span style="color:#ce9178">"AWS ×4"</span>];
+  <span style="color:#9cdcfe">weapons</span>   = [<span style="color:#ce9178">"No ego, don't fear the hard build"</span>, <span style="color:#ce9178">"Next.js"</span>, <span style="color:#ce9178">"React"</span>, <span style="color:#ce9178">"TypeScript"</span>, <span style="color:#ce9178">"Node.js"</span>, <span style="color:#ce9178">"AWS"</span>, <span style="color:#ce9178">"OpenAI"</span>];
+
+  <span style="color:#dcdcaa">philosophy</span>() {
+    <span style="color:#569cd6">return</span> <span style="color:#ce9178">"Move fast without making the codebase harder to live in."</span>;
   }
-}
-```
+}</pre>
+</td>
+</tr>
+</table>
 
 <br />
 
