@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/🏢_Now-Bayzat-2563eb?style=flat-square"/>
 <img src="https://img.shields.io/badge/☁️_AWS-4x_Certified-f59e0b?style=flat-square"/>
 <img src="https://img.shields.io/badge/🎓_Alumni-Gaza_Sky_Geeks-9333ea?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌐_Languages-EN·DE·AR-6366f1?style=flat-square"/>
 
 </div>
 
@@ -151,6 +152,26 @@ Premium sites for Saudi clients — legal, events, festivals, corporate, creativ
 <br /><br />
 
 `SQL` · `Express.js` · `Zustand` · `Redux` · `React Query` · `Stripe` · `OpenAI` · `Framer` · `Make.com` · `GitHub Actions`
+
+</div>
+
+---
+
+### 🌐 Languages
+
+<div align="center">
+
+| | Language | Level | Proficiency |
+|:---:|:---|:---|:---|
+| 🇬🇧 | **English** | Fluent | `██████████` |
+| 🇩🇪 | **Deutsch** | B1 | `█████░░░░░` |
+| 🇸🇦 | **Arabic** | Native | `██████████` |
+
+<br />
+
+<img src="https://img.shields.io/badge/English-Fluent-2563eb?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deutsch-B1-ffcc00?style=for-the-badge&logo=googletranslate&logoColor=black"/>
+<img src="https://img.shields.io/badge/Arabic-Native-16a34a?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 
 </div>
 
