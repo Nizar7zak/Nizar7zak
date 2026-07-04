@@ -217,9 +217,9 @@ Premium sites for Saudi clients — legal, events, festivals, corporate, creativ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nizar7zak&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Nizar7zak&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub streak"/>
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nizar7zak&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nizar7zak&theme=radical" alt="GitHub profile details"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Nizar7zak&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub streak"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nizar7zak&theme=radical" alt="Most used languages"/>
 
 <br />
 
