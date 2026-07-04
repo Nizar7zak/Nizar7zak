@@ -25,7 +25,7 @@
 ---
 
 <table width="100%" style="table-layout:fixed;">
-<tr><td colspan="2" align="center">
+<tr><td colspan="4" align="center">
 
 <img src="https://img.shields.io/badge/🤖_AI_PLATFORMS-7c3aed?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=32"/>
 
@@ -33,14 +33,12 @@
 
 </td></tr>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg" width="44" height="44" alt="Bayzat"/><br/><a href="https://www.bayzat.com/"><strong>Bayzat</strong></a> <sup>↗</sup><br/><sub>AI app builder + agentic cowork layer</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square"/></td>
-<td width="50%" valign="top" align="center"><img src="https://www.evnno.com/evnno-logo.png" width="44" height="44" alt="evnno"/><br/><a href="https://www.evnno.com/"><strong>evnno</strong></a> <sup>↗</sup><br/><sub>Maps link → paid landing page</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/></td>
+<td width="25%" valign="top" align="center"><img src="https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg" width="40" height="40" alt="Bayzat"/><br/><a href="https://www.bayzat.com/"><strong>Bayzat</strong></a> <sup>↗</sup><br/><sub>AI app builder + agentic cowork</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square"/></td>
+<td width="25%" valign="top" align="center"><img src="https://www.evnno.com/evnno-logo.png" width="40" height="40" alt="evnno"/><br/><a href="https://www.evnno.com/"><strong>evnno</strong></a> <sup>↗</sup><br/><sub>Maps link → paid landing page</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/></td>
+<td width="25%" valign="top" align="center"><img src="https://www.dozny.com/dozny-icon.svg" width="40" height="40" alt="Dozny"/><br/><a href="https://www.dozny.com/"><strong>Dozny</strong></a> <sup>↗</sup><br/><sub>AI campaign packs for creators</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></td>
+<td width="25%"></td>
 </tr>
-<tr>
-<td valign="top" align="center"><img src="https://www.dozny.com/dozny-icon.svg" width="44" height="44" alt="Dozny"/><br/><a href="https://www.dozny.com/"><strong>Dozny</strong></a> <sup>↗</sup><br/><sub>AI campaign packs for creators</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></td>
-<td></td>
-</tr>
-<tr><td colspan="2" align="center"><br/>
+<tr><td colspan="4" align="center"><br/>
 
 <img src="https://img.shields.io/badge/🌍_IMPACT_%26_INSTITUTIONS-2563eb?style=for-the-badge&labelColor=0ea5e9&logoColor=white&height=32"/>
 
@@ -48,10 +46,12 @@
 
 </td></tr>
 <tr>
-<td valign="top" align="center"><img src="https://www.gazauniversities.org/images/site-logo.svg" width="56" height="36" alt="Emergency Committee"/><br/><a href="https://www.gazauniversities.org/"><strong>Emergency Committee</strong></a> <sup>↗</sup><br/><sub>Gaza universities support platform</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Portal-2563eb?style=flat-square"/></td>
-<td valign="top" align="center"><img src="https://www.loi.sa/logo.svg" width="44" height="44" alt="LOI"/><br/><a href="https://www.loi.sa/"><strong>LOI</strong></a> <sup>↗</sup><br/><sub>Saudi law firm · EN/AR · admin</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/EN%2FAR-059669?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://www.gazauniversities.org/images/site-logo.svg" width="48" height="32" alt="Emergency Committee"/><br/><a href="https://www.gazauniversities.org/"><strong>Emergency Committee</strong></a> <sup>↗</sup><br/><sub>Gaza universities support</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Portal-2563eb?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://www.loi.sa/logo.svg" width="40" height="40" alt="LOI"/><br/><a href="https://www.loi.sa/"><strong>LOI</strong></a> <sup>↗</sup><br/><sub>Saudi law firm · EN/AR · admin</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/EN%2FAR-059669?style=flat-square"/></td>
+<td></td>
+<td></td>
 </tr>
-<tr><td colspan="2" align="center"><br/>
+<tr><td colspan="4" align="center"><br/>
 
 <img src="https://img.shields.io/badge/🇸🇦_SAUDI_BRANDS_%26_AGENCIES-059669?style=for-the-badge&labelColor=16a34a&logoColor=white&height=32"/>
 
@@ -59,18 +59,18 @@
 
 </td></tr>
 <tr>
-<td valign="top" align="center"><img src="https://herfa-ymtv.vercel.app/logo-herfa.svg" width="44" height="44" alt="Herfa"/><br/><a href="https://herfa-ymtv.vercel.app/"><strong>Herfa</strong></a> <sup>↗</sup><br/><sub>Scroll-driven storytelling</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Motion-7c3aed?style=flat-square"/></td>
-<td valign="top" align="center"><img src="https://www.4co.sa/icon.svg" width="44" height="44" alt="4co"/><br/><a href="https://www.4co.sa/"><strong>4co</strong></a> <sup>↗</sup><br/><sub>Events & marketing agency · EN/AR</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/EN%2FAR-059669?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://herfa-ymtv.vercel.app/logo-herfa.svg" width="40" height="40" alt="Herfa"/><br/><a href="https://herfa-ymtv.vercel.app/"><strong>Herfa</strong></a> <sup>↗</sup><br/><sub>Scroll-driven storytelling</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Motion-7c3aed?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://www.4co.sa/icon.svg" width="40" height="40" alt="4co"/><br/><a href="https://www.4co.sa/"><strong>4co</strong></a> <sup>↗</sup><br/><sub>Events & marketing · EN/AR</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/EN%2FAR-059669?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://saqeefa-ch26.com/icon.svg" width="40" height="40" alt="Saqeefa"/><br/><a href="https://saqeefa-ch26.com/"><strong>Saqeefa</strong></a> <sup>↗</sup><br/><sub>Festival 2026 B2B landing</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/B2B-9D3954?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://azr-brown.vercel.app/icon.svg" width="40" height="40" alt="AZR"/><br/><a href="https://azr-brown.vercel.app/"><strong>AZR</strong></a> <sup>↗</sup><br/><sub>Corporate site · maps · admin</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Admin-2563eb?style=flat-square"/></td>
 </tr>
 <tr>
-<td valign="top" align="center"><img src="https://saqeefa-ch26.com/icon.svg" width="44" height="44" alt="Saqeefa"/><br/><a href="https://saqeefa-ch26.com/"><strong>Saqeefa</strong></a> <sup>↗</sup><br/><sub>Festival 2026 B2B landing</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/B2B-9D3954?style=flat-square"/></td>
-<td valign="top" align="center"><img src="https://azr-brown.vercel.app/icon.svg" width="44" height="44" alt="AZR"/><br/><a href="https://azr-brown.vercel.app/"><strong>AZR</strong></a> <sup>↗</sup><br/><sub>Corporate site · maps · admin</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Admin-2563eb?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg" width="40" height="40" alt="iMinds"/><br/><a href="https://www.iminds.sa/"><strong>iMinds</strong></a> <sup>↗</sup><br/><sub>Business site · Framer</sub><br/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/></td>
+<td valign="top" align="center"><img src="https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg" width="40" height="40" alt="Cons"/><br/><a href="https://www.cons.sa/"><strong>Cons</strong></a> <sup>↗</sup><br/><sub>Business site · Framer</sub><br/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/></td>
+<td></td>
+<td></td>
 </tr>
-<tr>
-<td valign="top" align="center"><img src="https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg" width="44" height="44" alt="iMinds"/><br/><a href="https://www.iminds.sa/"><strong>iMinds</strong></a> <sup>↗</sup><br/><sub>Business site · Framer</sub><br/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/></td>
-<td valign="top" align="center"><img src="https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg" width="44" height="44" alt="Cons"/><br/><a href="https://www.cons.sa/"><strong>Cons</strong></a> <sup>↗</sup><br/><sub>Business site · Framer</sub><br/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/></td>
-</tr>
-<tr><td colspan="2" align="center"><br/>
+<tr><td colspan="4" align="center"><br/>
 
 <img src="https://img.shields.io/badge/🎮_PLAYGROUND-ef4444?style=for-the-badge&labelColor=f59e0b&logoColor=white&height=32"/>
 
@@ -78,8 +78,10 @@
 
 </td></tr>
 <tr>
-<td valign="top" align="center"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg" width="44" height="44" alt="BounceGame"/><br/><a href="https://bounce-game-roan.vercel.app/"><strong>BounceGame</strong></a> <sup>↗</sup><br/><sub>Interactive browser game</sub><br/><img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebGL-ef4444?style=flat-square"/></td>
-<td valign="top" align="center"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" width="44" height="44" alt="GameHub"/><br/><a href="https://game-hub-zeta-lilac-15.vercel.app/"><strong>GameHub</strong></a> <sup>↗</sup><br/><sub>Game discovery · RAWG API</sub><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/RAWG-7c3aed?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg" width="40" height="40" alt="BounceGame"/><br/><a href="https://bounce-game-roan.vercel.app/"><strong>BounceGame</strong></a> <sup>↗</sup><br/><sub>Interactive browser game</sub><br/><img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebGL-ef4444?style=flat-square"/></td>
+<td valign="top" align="center"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" width="40" height="40" alt="GameHub"/><br/><a href="https://game-hub-zeta-lilac-15.vercel.app/"><strong>GameHub</strong></a> <sup>↗</sup><br/><sub>Game discovery · RAWG API</sub><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/RAWG-7c3aed?style=flat-square"/></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
