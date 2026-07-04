@@ -22,14 +22,6 @@
 
 <br />
 
-## ⚡ The Operating System
-
-I build products where **business value, interface craft, and engineering discipline** collide.
-
-From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR experiments. I own the whole path: **idea → UX → architecture → code → deploy → iterate.**
-
-<br />
-
 ---
 
 <table width="100%" style="table-layout:fixed;">
@@ -93,11 +85,11 @@ From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR expe
 
 <br />
 
-<div align="center">
+## ⚡ The Operating System
 
-<img width="100%" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/terminal.svg" alt="Terminal: class NezarZakout extends Developer" />
+I build products where **business value, interface craft, and engineering discipline** collide.
 
-</div>
+From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR experiments. I own the whole path: **idea → UX → architecture → code → deploy → iterate.**
 
 <br />
 
@@ -194,6 +186,14 @@ From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR expe
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=Nizar7zak&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/terminal.svg" alt="Terminal: class NezarZakout extends Developer" />
 
 </div>
 
