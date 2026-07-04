@@ -206,7 +206,7 @@ def draw_tag(draw: ImageDraw.ImageDraw, font, text: str, x: int, y: int, accent:
     h = 22
     inner = tuple(max(0, c - 40) for c in rgb)
     rounded_rect(draw, (x, y, x + w, y + h), 10, fill=inner, outline=accent, width=1)
-    draw.text((x + pad_x, y + 4), text, fill=accent, font=font)
+    draw.text((x + pad_x, y + 4), text, fill="#ffffff", font=font)
     return w + 8
 
 
