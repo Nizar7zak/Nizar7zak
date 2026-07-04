@@ -110,15 +110,11 @@
 
 ## 🛤️ The Road So Far
 
-```text
-2025 ━━● Bayzat        Full-stack product work · Next.js · React · TypeScript
-       ┃
-2024 ━━● Metachain     Built evnno + Dozny · AI generation · Stripe · AWS
-       ┃
-2023 ━━● A-LL (🇨🇭)     AR for Swiss museums · 8thWall · R3F · Swift App Clips
-       ┃
-2022 ━━● Gaza Sky Geeks  AWS Instructor · React/Express mentor · 200+ students
-```
+<div align="center">
+
+<img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/timeline.svg" alt="Career timeline: Bayzat, Metachain, A-LL, Gaza Sky Geeks"/>
+
+</div>
 
 <br />
 
