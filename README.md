@@ -44,9 +44,11 @@ class NezarZakout extends Developer {
 
 <br />
 
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4f46e5&height=60&section=header&text=🤖%20AI%20Platforms&fontSize=28&fontColor=ffffff&fontAlignY=51" alt="AI Platforms" />
+<img src="https://img.shields.io/badge/🤖_AI_PLATFORMS-7c3aed?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=32"/>
 
 </div>
 
@@ -55,9 +57,11 @@ class NezarZakout extends Developer {
 - ⚡ **[evnno](https://www.evnno.com/)** — Turns a Google Maps link into a paid, client-approved landing page. AI generation · Stripe · auto-deploys to Vercel.
 - 🎨 **[Dozny](https://www.dozny.com/)** — AI campaign packs for creators selling to clients. Share a board → get paid → deliver. OpenAI · AWS · Stripe.
 
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:2563eb&height=60&section=header&text=🌍%20Impact%20%26%20Institutions&fontSize=28&fontColor=ffffff&fontAlignY=51" alt="Impact and Institutions" />
+<img src="https://img.shields.io/badge/🌍_IMPACT_&_INSTITUTIONS-2563eb?style=for-the-badge&labelColor=0ea5e9&logoColor=white&height=32"/>
 
 </div>
 
@@ -66,9 +70,11 @@ class NezarZakout extends Developer {
 - 🏛️ **[Emergency Committee](https://www.gazauniversities.org/)** — Official platform for Gaza's universities: international support coordination, updates, and a research portal.
 - ⚖️ **[LOI](https://www.loi.sa/)** — Saudi law firm platform. Bilingual EN/AR, services, blog, and a full super-admin dashboard.
 
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,100:059669&height=60&section=header&text=🇸🇦%20Saudi%20Brands%20%26%20Agencies&fontSize=28&fontColor=ffffff&fontAlignY=51" alt="Saudi Brands" />
+<img src="https://img.shields.io/badge/🇸🇦_SAUDI_BRANDS_&_AGENCIES-059669?style=for-the-badge&labelColor=16a34a&logoColor=white&height=32"/>
 
 </div>
 
@@ -81,9 +87,11 @@ class NezarZakout extends Developer {
 - 💡 **[iMinds](https://www.iminds.sa/)** — Business site crafted in Framer.
 - 🔷 **[Cons](https://www.cons.sa/)** — Business site crafted in Framer.
 
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:ef4444&height=60&section=header&text=🎮%20Playground&fontSize=28&fontColor=ffffff&fontAlignY=51" alt="Playground" />
+<img src="https://img.shields.io/badge/🎮_PLAYGROUND-ef4444?style=for-the-badge&labelColor=f59e0b&logoColor=white&height=32"/>
 
 </div>
 
