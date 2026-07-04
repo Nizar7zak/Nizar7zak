@@ -106,6 +106,23 @@
 
 <br />
 
+## 📊 GitHub Pulse
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nizar7zak&theme=radical" alt="Profile details"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nizar7zak&theme=radical" alt="Most used languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nizar7zak&theme=radical&utcOffset=3" alt="Productive time"/>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Nizar7zak&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+<br />
+
 ## ⚡ The Operating System
 
 I build products where **business value, interface craft, and engineering discipline** collide.
@@ -192,23 +209,6 @@ From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR expe
 <tr><td colspan="2"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
 <tr><td width="56" align="center" valign="middle"><a href="https://www.linkedin.com/in/tomduggan85/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/tom-duggan.jpg" width="48" height="48" style="border-radius:50%;" alt="Tom Duggan"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/tomduggan85/"><strong>Tom Duggan</strong></a> <a href="https://www.linkedin.com/in/tomduggan85/"><sup>↗</sup></a><br/><img src="https://flagcdn.com/w40/us.png" width="24" height="18" valign="middle" alt="USA"/> <img src="https://img.shields.io/badge/Senior_Software_Engineer-2563eb?style=flat-square&labelColor=1d4ed8"/> <img src="https://img.shields.io/badge/Anduril-000?style=flat-square"/><br/><br/><sub><i>"A drive to learn new technologies and apply them to real-world problems... thoughtful, pragmatic, and asks the right questions."</i></sub></td></tr>
 </table>
-
-<br />
-
-## 📊 GitHub Pulse
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nizar7zak&theme=radical" alt="Profile details"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nizar7zak&theme=radical" alt="Most used languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nizar7zak&theme=radical&utcOffset=3" alt="Productive time"/>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Nizar7zak&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
 
 <br />
 
