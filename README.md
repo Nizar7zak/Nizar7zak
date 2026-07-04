@@ -34,7 +34,7 @@ class NezarZakout extends Developer {
   shipped   = 12;             // live products in production
   trained   = 200;            // developers mentored @ Gaza Sky Geeks
   certified = ["AWS ×4"];
-  weapons   = ["Next.js", "React", "TypeScript", "Node.js", "AWS", "OpenAI"];
+  weapons   = ["No ego — don't fear the hard build", "Next.js", "React", "TypeScript", "Node.js", "AWS", "OpenAI"];
 
   philosophy() {
     return "Move fast — without making the codebase harder to live in.";
