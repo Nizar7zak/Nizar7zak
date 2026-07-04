@@ -28,13 +28,11 @@
 
 <img src="https://img.shields.io/badge/🚀_SELECTED_WORK-8b5cf6?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=32"/>
 
-<br/><sub><i>12+ live products · enterprise AI to Saudi brands to side experiments</i></sub>
-
 </div>
 
 <br/>
 
-<table width="100%" style="table-layout:fixed;border-collapse:separate;border-spacing:0 8px;">
+<table width="100%" style="table-layout:fixed;border-collapse:separate;border-spacing:0 20px;">
 <tr><td colspan="4" align="center">
 
 <img src="https://img.shields.io/badge/🤖_AI_PLATFORMS-7c3aed?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=28"/>
@@ -43,10 +41,10 @@
 
 </td></tr>
 <tr><td colspan="4" align="center">
-<table width="75%" style="table-layout:fixed;"><tr>
-<td width="33%" valign="top" align="center"><img src="https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg" width="44" height="44" alt="Bayzat"/><br/><a href="https://www.bayzat.com/"><strong>Bayzat</strong></a> <sup>↗</sup><br/><sub>AI app builder<br/>+ agentic cowork</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square"/></td>
-<td width="33%" valign="top" align="center"><img src="https://www.evnno.com/evnno-logo.png" width="44" height="44" alt="evnno"/><br/><a href="https://www.evnno.com/"><strong>evnno</strong></a> <sup>↗</sup><br/><sub>Maps link →<br/>paid landing page</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/></td>
-<td width="33%" valign="top" align="center"><img src="https://www.dozny.com/dozny-icon.svg" width="44" height="44" alt="Dozny"/><br/><a href="https://www.dozny.com/"><strong>Dozny</strong></a> <sup>↗</sup><br/><sub>AI campaign packs<br/>for creators</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></td>
+<table width="60%" style="table-layout:fixed;border-spacing:0 12px;"><tr>
+<td width="33%" valign="top" align="center"><a href="https://www.bayzat.com/"><img src="https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg" width="52" height="52" alt="Bayzat"/><br/><br/><strong>Bayzat</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="https://www.evnno.com/"><img src="https://www.evnno.com/evnno-logo.png" width="52" height="52" alt="evnno"/><br/><br/><strong>evnno</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="https://www.dozny.com/"><img src="https://www.dozny.com/dozny-icon.svg" width="52" height="52" alt="Dozny"/><br/><br/><strong>Dozny</strong></a></td>
 </tr></table>
 </td></tr>
 <tr><td colspan="4"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
@@ -58,9 +56,9 @@
 
 </td></tr>
 <tr><td colspan="4" align="center">
-<table width="50%" style="table-layout:fixed;"><tr>
-<td width="50%" valign="top" align="center"><img src="https://www.gazauniversities.org/images/site-logo.svg" width="52" height="34" alt="Emergency Committee"/><br/><a href="https://www.gazauniversities.org/"><strong>Gaza Committee</strong></a> <sup>↗</sup><br/><sub>Universities support<br/>platform</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Portal-2563eb?style=flat-square"/></td>
-<td width="50%" valign="top" align="center"><img src="https://www.loi.sa/logo.svg" width="44" height="44" alt="LOI"/><br/><a href="https://www.loi.sa/"><strong>LOI</strong></a> <sup>↗</sup><br/><sub>Saudi law firm<br/>EN/AR · admin</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/EN%2FAR-059669?style=flat-square"/></td>
+<table width="40%" style="table-layout:fixed;"><tr>
+<td width="50%" valign="top" align="center"><a href="https://www.gazauniversities.org/"><img src="https://www.gazauniversities.org/images/site-logo.svg" width="56" height="36" alt="Gaza Committee"/><br/><br/><strong>Gaza Committee</strong></a></td>
+<td width="50%" valign="top" align="center"><a href="https://www.loi.sa/"><img src="https://www.loi.sa/logo.svg" width="52" height="52" alt="LOI"/><br/><br/><strong>LOI</strong></a></td>
 </tr></table>
 </td></tr>
 <tr><td colspan="4"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
@@ -72,10 +70,10 @@
 
 </td></tr>
 <tr>
-<td width="25%" valign="top" align="center"><img src="https://herfa-ymtv.vercel.app/logo-herfa.svg" width="44" height="44" alt="Herfa"/><br/><a href="https://herfa-ymtv.vercel.app/"><strong>Herfa</strong></a> <sup>↗</sup><br/><sub>Scroll-driven<br/>storytelling</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Motion-7c3aed?style=flat-square"/></td>
-<td width="25%" valign="top" align="center"><img src="https://www.4co.sa/icon.svg" width="44" height="44" alt="4co"/><br/><a href="https://www.4co.sa/"><strong>4co</strong></a> <sup>↗</sup><br/><sub>Events & marketing<br/>agency · EN/AR</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/EN%2FAR-059669?style=flat-square"/></td>
-<td width="25%" valign="top" align="center"><img src="https://saqeefa-ch26.com/icon.svg" width="44" height="44" alt="Saqeefa"/><br/><a href="https://saqeefa-ch26.com/"><strong>Saqeefa</strong></a> <sup>↗</sup><br/><sub>Festival 2026<br/>B2B landing</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/B2B-9D3954?style=flat-square"/></td>
-<td width="25%" valign="top" align="center"><img src="https://azr-brown.vercel.app/icon.svg" width="44" height="44" alt="AZR"/><br/><a href="https://azr-brown.vercel.app/"><strong>AZR</strong></a> <sup>↗</sup><br/><sub>Corporate site<br/>maps · admin</sub><br/><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Admin-2563eb?style=flat-square"/></td>
+<td width="25%" valign="top" align="center"><a href="https://herfa-ymtv.vercel.app/"><img src="https://herfa-ymtv.vercel.app/logo-herfa.svg" width="52" height="52" alt="Herfa"/><br/><br/><strong>Herfa</strong></a></td>
+<td width="25%" valign="top" align="center"><a href="https://www.4co.sa/"><img src="https://www.4co.sa/icon.svg" width="52" height="52" alt="4co"/><br/><br/><strong>4co</strong></a></td>
+<td width="25%" valign="top" align="center"><a href="https://saqeefa-ch26.com/"><img src="https://saqeefa-ch26.com/icon.svg" width="52" height="52" alt="Saqeefa"/><br/><br/><strong>Saqeefa</strong></a></td>
+<td width="25%" valign="top" align="center"><a href="https://azr-brown.vercel.app/"><img src="https://azr-brown.vercel.app/icon.svg" width="52" height="52" alt="AZR"/><br/><br/><strong>AZR</strong></a></td>
 </tr>
 <tr><td colspan="4"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
 <tr><td colspan="4" align="center">
@@ -86,10 +84,10 @@
 
 </td></tr>
 <tr>
-<td valign="top" align="center"><img src="https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg" width="44" height="44" alt="iMinds"/><br/><a href="https://www.iminds.sa/"><strong>iMinds</strong></a> <sup>↗</sup><br/><sub>Business site<br/>Framer</sub><br/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Saudi-059669?style=flat-square"/></td>
-<td valign="top" align="center"><img src="https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg" width="44" height="44" alt="Cons"/><br/><a href="https://www.cons.sa/"><strong>Cons</strong></a> <sup>↗</sup><br/><sub>Business site<br/>Framer</sub><br/><img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Saudi-059669?style=flat-square"/></td>
-<td valign="top" align="center"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg" width="44" height="44" alt="BounceGame"/><br/><a href="https://bounce-game-roan.vercel.app/"><strong>BounceGame</strong></a> <sup>↗</sup><br/><sub>Interactive<br/>browser game</sub><br/><img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebGL-ef4444?style=flat-square"/></td>
-<td valign="top" align="center"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" width="44" height="44" alt="GameHub"/><br/><a href="https://game-hub-zeta-lilac-15.vercel.app/"><strong>GameHub</strong></a> <sup>↗</sup><br/><sub>Game discovery<br/>RAWG API</sub><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/RAWG-7c3aed?style=flat-square"/></td>
+<td valign="top" align="center"><a href="https://www.iminds.sa/"><img src="https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg" width="52" height="52" alt="iMinds"/><br/><br/><strong>iMinds</strong></a></td>
+<td valign="top" align="center"><a href="https://www.cons.sa/"><img src="https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg" width="52" height="52" alt="Cons"/><br/><br/><strong>Cons</strong></a></td>
+<td valign="top" align="center"><a href="https://bounce-game-roan.vercel.app/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg" width="52" height="52" alt="BounceGame"/><br/><br/><strong>BounceGame</strong></a></td>
+<td valign="top" align="center"><a href="https://game-hub-zeta-lilac-15.vercel.app/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" width="52" height="52" alt="GameHub"/><br/><br/><strong>GameHub</strong></a></td>
 </tr>
 </table>
 
