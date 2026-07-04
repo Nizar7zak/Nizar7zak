@@ -2,8 +2,8 @@
   {
     "id": "bayzat",
     "name": "Bayzat",
-    "desc": "AI app builder + agentic cowork layer on Bayzat's work-life platform",
-    "desc2": "Next.js \u00b7 TypeScript \u00b7 v0-style builder \u00b7 agentic tools shipped to production",
+    "desc": "Core team on Bayzat's AI app builder, shipping prompt-to-product tooling integrated with the platform",
+    "desc2": "Built a lean agentic cowork layer embedded in Bayzat's system for in-platform workflows",
     "tags": [
       "Enterprise AI",
       "Full-stack @ Bayzat"
