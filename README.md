@@ -38,69 +38,54 @@
 
 <img src="https://img.shields.io/badge/🤖_AI_PLATFORMS-7c3aed?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=28"/>
 
-<br/><br/>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr><td align="center"><a href="https://www.bayzat.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bayzat.png" alt="Bayzat"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.png" alt="evnno"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://www.dozny.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.png" alt="Dozny"/></a></td></tr>
+</table>
 
-<a href="https://www.bayzat.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bayzat.png" alt="Bayzat"/></a>
-
-<br/><br/>
-
-<a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.png" alt="evnno"/></a>
-
-<br/><br/>
-
-<a href="https://www.dozny.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.png" alt="Dozny"/></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/🌍_IMPACT_%26_INSTITUTIONS-2563eb?style=for-the-badge&labelColor=0ea5e9&logoColor=white&height=28"/>
 
-<br/><br/>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://www.gazauniversities.org/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.png" alt="Gaza Committee"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.png" alt="LOI"/></a></td></tr>
+</table>
 
-<a href="https://www.gazauniversities.org/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.png" alt="Gaza Committee"/></a>
-
-<br/><br/>
-
-<a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.png" alt="LOI"/></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/🇸🇦_SAUDI_BRANDS_%26_AGENCIES-059669?style=for-the-badge&labelColor=16a34a&logoColor=white&height=28"/>
 
-<br/><br/>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://herfa-ymtv.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.png" alt="Herfa"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://www.4co.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.png" alt="4co"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.png" alt="Saqeefa"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.png" alt="AZR"/></a></td></tr>
+</table>
 
-<a href="https://herfa-ymtv.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.png" alt="Herfa"/></a>
-
-<br/><br/>
-
-<a href="https://www.4co.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.png" alt="4co"/></a>
-
-<br/><br/>
-
-<a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.png" alt="Saqeefa"/></a>
-
-<br/><br/>
-
-<a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.png" alt="AZR"/></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/🎨_FRAMER_%26_PLAYGROUND-ef4444?style=for-the-badge&labelColor=f59e0b&logoColor=white&height=28"/>
 
-<br/><br/>
-
-<a href="https://www.iminds.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.png" alt="iMinds"/></a>
-
-<br/><br/>
-
-<a href="https://www.cons.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.png" alt="Cons"/></a>
-
-<br/><br/>
-
-<a href="https://bounce-game-roan.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.png" alt="BounceGame"/></a>
-
-<br/><br/>
-
-<a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.png" alt="GameHub"/></a>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://www.iminds.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.png" alt="iMinds"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://www.cons.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.png" alt="Cons"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://bounce-game-roan.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.png" alt="BounceGame"/></a></td></tr>
+<tr><td height="6"></td></tr>
+<tr><td align="center"><a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.png" alt="GameHub"/></a></td></tr>
+</table>
 
 </div>
 
