@@ -32,7 +32,7 @@
 
 <br/>
 
-<!-- bento grid: gradient SVG cards · regenerate via scripts/generate-cards.py -->
+<!-- bento grid: PNG cards · regenerate via scripts/generate-cards.py -->
 
 <div align="center">
 
@@ -40,15 +40,15 @@
 
 <br/><br/>
 
-<a href="https://www.bayzat.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bayzat.svg" alt="Bayzat"/></a>
+<a href="https://www.bayzat.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bayzat.png" alt="Bayzat"/></a>
 
 <br/><br/>
 
-<a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.svg" alt="evnno"/></a>
+<a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.png" alt="evnno"/></a>
 
 <br/><br/>
 
-<a href="https://www.dozny.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.svg" alt="Dozny"/></a>
+<a href="https://www.dozny.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.png" alt="Dozny"/></a>
 
 <br/><br/>
 
@@ -56,11 +56,11 @@
 
 <br/><br/>
 
-<a href="https://www.gazauniversities.org/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.svg" alt="Gaza Committee"/></a>
+<a href="https://www.gazauniversities.org/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.png" alt="Gaza Committee"/></a>
 
 <br/><br/>
 
-<a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.svg" alt="LOI"/></a>
+<a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.png" alt="LOI"/></a>
 
 <br/><br/>
 
@@ -68,19 +68,19 @@
 
 <br/><br/>
 
-<a href="https://herfa-ymtv.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.svg" alt="Herfa"/></a>
+<a href="https://herfa-ymtv.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.png" alt="Herfa"/></a>
 
 <br/><br/>
 
-<a href="https://www.4co.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.svg" alt="4co"/></a>
+<a href="https://www.4co.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.png" alt="4co"/></a>
 
 <br/><br/>
 
-<a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.svg" alt="Saqeefa"/></a>
+<a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.png" alt="Saqeefa"/></a>
 
 <br/><br/>
 
-<a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.svg" alt="AZR"/></a>
+<a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.png" alt="AZR"/></a>
 
 <br/><br/>
 
@@ -88,19 +88,19 @@
 
 <br/><br/>
 
-<a href="https://www.iminds.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.svg" alt="iMinds"/></a>
+<a href="https://www.iminds.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.png" alt="iMinds"/></a>
 
 <br/><br/>
 
-<a href="https://www.cons.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.svg" alt="Cons"/></a>
+<a href="https://www.cons.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.png" alt="Cons"/></a>
 
 <br/><br/>
 
-<a href="https://bounce-game-roan.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.svg" alt="BounceGame"/></a>
+<a href="https://bounce-game-roan.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.png" alt="BounceGame"/></a>
 
 <br/><br/>
 
-<a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.svg" alt="GameHub"/></a>
+<a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.png" alt="GameHub"/></a>
 
 </div>
 

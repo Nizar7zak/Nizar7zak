@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Generate bento-style project card SVGs for GitHub profile README."""
+"""Generate bento-style project card PNGs for GitHub profile README."""
 
-import base64
-import html
 import json
-import mimetypes
+import subprocess
 import urllib.request
+from io import BytesIO
 from pathlib import Path
+
+from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "assets" / "cards"
@@ -16,7 +17,8 @@ CARD_W = 920
 CARD_H = 120
 HERO_H = 156
 
-RAW = "https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos"
+FONT_BOLD = "/System/Library/Fonts/Supplemental/Arial Bold.ttf"
+FONT_REG = "/System/Library/Fonts/Supplemental/Arial.ttf"
 
 PROJECTS = [
     {
@@ -155,86 +157,123 @@ def fetch_logos() -> None:
         dest.write_bytes(data)
 
 
-def logo_data_uri(logo_file: str) -> str:
-    path = LOGOS / logo_file
-    data = path.read_bytes()
-    mime, _ = mimetypes.guess_type(path.name)
-    if mime is None:
-        mime = "image/svg+xml" if path.suffix == ".svg" else "application/octet-stream"
-    if path.suffix == ".svg" and mime != "image/svg+xml":
-        mime = "image/svg+xml"
-    encoded = base64.b64encode(data).decode("ascii")
-    return f"data:{mime};base64,{encoded}"
+def hex_rgb(color: str) -> tuple[int, int, int]:
+    color = color.lstrip("#")
+    return tuple(int(color[i : i + 2], 16) for i in (0, 2, 4))
 
 
-def tag_pills(tags: list[str], accent: str, x: int, y: int) -> str:
-    parts = []
-    cx = x
-    for tag in tags:
-        w = len(tag) * 6.8 + 18
-        t = html.escape(tag)
-        parts.append(
-            f'<rect x="{cx}" y="{y}" width="{w}" height="20" rx="10" fill="{accent}" fill-opacity="0.18"/>'
-            f'<rect x="{cx}" y="{y}" width="{w}" height="20" rx="10" stroke="{accent}" stroke-opacity="0.45"/>'
-            f'<text x="{cx + 9}" y="{y + 14}" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="{accent}">{t}</text>'
+def flatten_logo(logo: Image.Image) -> Image.Image:
+    """Turn near-black pixels transparent so logos sit cleanly on dark wells."""
+    logo = logo.convert("RGBA")
+    pixels = logo.load()
+    for y in range(logo.height):
+        for x in range(logo.width):
+            r, g, b, a = pixels[x, y]
+            if r < 40 and g < 40 and b < 40:
+                pixels[x, y] = (0, 0, 0, 0)
+    return logo
+
+
+def load_logo(path: Path, size: tuple[int, int]) -> Image.Image:
+    if path.suffix.lower() == ".svg":
+        result = subprocess.run(
+            ["rsvg-convert", "-w", str(size[0]), "-h", str(size[1]), str(path)],
+            capture_output=True,
+            check=True,
         )
-        cx += w + 8
-    return "\n  ".join(parts)
+        logo = Image.open(BytesIO(result.stdout)).convert("RGBA")
+    else:
+        logo = Image.open(path).convert("RGBA")
+        logo.thumbnail(size, Image.Resampling.LANCZOS)
+    logo = flatten_logo(logo)
+    canvas = Image.new("RGBA", size, (0, 0, 0, 0))
+    ox = (size[0] - logo.width) // 2
+    oy = (size[1] - logo.height) // 2
+    canvas.paste(logo, (ox, oy), logo)
+    return canvas
 
 
-def card_svg(p: dict) -> str:
+def rounded_rect(draw: ImageDraw.ImageDraw, xy, radius: int, fill=None, outline=None, width: int = 1):
+    draw.rounded_rectangle(xy, radius=radius, fill=fill, outline=outline, width=width)
+
+
+def draw_tag(draw: ImageDraw.ImageDraw, font, text: str, x: int, y: int, accent: str) -> int:
+    rgb = hex_rgb(accent)
+    bbox = draw.textbbox((0, 0), text, font=font)
+    tw = bbox[2] - bbox[0]
+    pad_x = 10
+    w = tw + pad_x * 2
+    h = 22
+    inner = tuple(max(0, c - 40) for c in rgb)
+    rounded_rect(draw, (x, y, x + w, y + h), 10, fill=inner, outline=accent, width=1)
+    draw.text((x + pad_x, y + 4), text, fill=accent, font=font)
+    return w + 8
+
+
+def render_card(p: dict) -> Image.Image:
     hero = p.get("hero", False)
-    w, h = CARD_W, (HERO_H if hero else CARD_H)
+    w, h = CARD_W, HERO_H if hero else CARD_H
+    img = Image.new("RGB", (w, h), (20, 20, 31))
+    draw = ImageDraw.Draw(img)
+
+    accent = p["accent"]
+    accent_rgb = hex_rgb(accent)
+
+    # subtle horizontal gradient wash
+    for i in range(w):
+        t = i / max(w - 1, 1)
+        r = int(accent_rgb[0] * (1 - t) * 0.07 + 20 * (1 - 0.07))
+        g = int(accent_rgb[1] * (1 - t) * 0.07 + 20 * (1 - 0.07))
+        b = int(accent_rgb[2] * (1 - t) * 0.07 + 31 * (1 - 0.07))
+        draw.line([(i, 0), (i, h)], fill=(r, g, b))
+
+    # border
+    rounded_rect(draw, (0, 0, w - 1, h - 1), 16, outline=accent, width=2)
+
     lw = p.get("logo_w", 48)
     lh = p.get("logo_h", 48)
-    lx, ly = 28, (h - lh) // 2
-    tx = lx + lw + 24
-    name = html.escape(p["name"])
-    desc = html.escape(p["desc"])
-    desc2 = html.escape(p.get("desc2", ""))
-    accent = p["accent"]
-    logo = logo_data_uri(p["logo_file"])
-    grad_id = f"g-{p['id']}"
+    lx, ly = 24, (h - lh) // 2
+    tx = lx + lw + 22
 
-    title_y = 50 if hero else 46
-    desc_y = 74 if hero else 66
-    desc2_y = 94 if hero else 0
-    tag_y = 118 if hero else 88
+    # dark logo well (works for light and dark logos)
+    rounded_rect(draw, (lx - 8, ly - 8, lx + lw + 8, ly + lh + 8), 12, fill=(37, 37, 54))
 
-    desc2_line = ""
-    if desc2:
-        desc2_line = f'\n  <text x="{tx}" y="{desc2_y}" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#64748b">{desc2}</text>'
+    logo = load_logo(LOGOS / p["logo_file"], (lw, lh))
+    if logo.mode == "RGBA":
+        img.paste(logo, (lx, ly), logo)
+    else:
+        img.paste(logo, (lx, ly))
+    draw = ImageDraw.Draw(img)
 
-    return f"""<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="{grad_id}" x1="0" y1="0" x2="{w}" y2="{h}" gradientUnits="userSpaceOnUse">
-      <stop stop-color="{accent}" stop-opacity="0.85"/>
-      <stop offset="0.55" stop-color="#8b5cf6" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#06b6d4" stop-opacity="0.75"/>
-    </linearGradient>
-    <clipPath id="clip-{p['id']}">
-      <rect x="{lx}" y="{ly}" width="{lw}" height="{lh}" rx="10"/>
-    </clipPath>
-  </defs>
-  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="16" fill="#14141f"/>
-  <rect x="1" y="1" width="{w-2}" height="{h-2}" rx="16" fill="url(#{grad_id})" fill-opacity="0.08"/>
-  <rect x="0.5" y="0.5" width="{w-1}" height="{h-1}" rx="16.5" stroke="url(#{grad_id})" stroke-opacity="0.65"/>
-  <rect x="18" y="18" width="{lw+12}" height="{lh+12}" rx="14" fill="#ffffff" fill-opacity="0.04"/>
-  <image href="{logo}" x="{lx}" y="{ly}" width="{lw}" height="{lh}" clip-path="url(#clip-{p['id']})" preserveAspectRatio="xMidYMid meet"/>
-  <text x="{tx}" y="{title_y}" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="{'22' if hero else '19'}" font-weight="700" fill="#f8fafc">{name}</text>
-  <text x="{tx}" y="{desc_y}" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="{'14' if hero else '13'}" fill="#94a3b8">{desc}</text>{desc2_line}
-  {tag_pills(p["tags"], accent, tx, tag_y)}
-</svg>
-"""
+    title_font = ImageFont.truetype(FONT_BOLD, 22 if hero else 19)
+    desc_font = ImageFont.truetype(FONT_REG, 14 if hero else 13)
+    desc2_font = ImageFont.truetype(FONT_REG, 12)
+    tag_font = ImageFont.truetype(FONT_BOLD, 11)
+
+    title_y = 38 if hero else 34
+    desc_y = 66 if hero else 58
+    tag_y = 118 if hero else 86
+
+    draw.text((tx, title_y), p["name"], fill="#f8fafc", font=title_font)
+    draw.text((tx, desc_y), p["desc"], fill="#94a3b8", font=desc_font)
+
+    if p.get("desc2"):
+        draw.text((tx, desc_y + 22), p["desc2"], fill="#64748b", font=desc2_font)
+
+    cx = tx
+    for tag in p["tags"]:
+        cx += draw_tag(draw, tag_font, tag, cx, tag_y, accent)
+
+    return img
 
 
 def main() -> None:
     fetch_logos()
     OUT.mkdir(parents=True, exist_ok=True)
     for p in PROJECTS:
-        path = OUT / f"{p['id']}.svg"
-        path.write_text(card_svg(p), encoding="utf-8")
-        print(f"wrote {path.name}")
+        png_path = OUT / f"{p['id']}.png"
+        render_card(p).save(png_path, "PNG", optimize=True)
+        print(f"wrote {png_path.name}")
     (OUT / "manifest.json").write_text(json.dumps(PROJECTS, indent=2, default=str), encoding="utf-8")
 
 
