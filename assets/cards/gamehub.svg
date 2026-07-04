@@ -1,0 +1,26 @@
+<svg width="448" height="104" viewBox="0 0 448 104" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="g-gamehub" x1="0" y1="0" x2="448" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ef4444" stop-opacity="0.85"/>
+      <stop offset="0.55" stop-color="#8b5cf6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0.75"/>
+    </linearGradient>
+    <filter id="gl-gamehub" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip-gamehub">
+      <rect x="24" y="28" width="48" height="48" rx="10"/>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="446" height="102" rx="16" fill="#14141f"/>
+  <rect x="1" y="1" width="446" height="102" rx="16" fill="url(#g-gamehub)" fill-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="447" height="103" rx="16.5" stroke="url(#g-gamehub)" stroke-opacity="0.65"/>
+  <rect x="18" y="18" width="60" height="60" rx="14" fill="#ffffff" fill-opacity="0.04"/>
+  <image href="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" x="24" y="28" width="48" height="48" clip-path="url(#clip-gamehub)" preserveAspectRatio="xMidYMid meet"/>
+  <text x="94" y="42" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">GameHub</text>
+  <text x="94" y="58" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Game discovery powered by RAWG</text>
+  <rect x="94" y="68" width="99.6" height="20" rx="10" fill="#ef4444" fill-opacity="0.18"/>
+  <rect x="94" y="68" width="99.6" height="20" rx="10" stroke="#ef4444" stroke-opacity="0.45"/>
+  <text x="103" y="82" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#ef4444">Side project</text>
+</svg>

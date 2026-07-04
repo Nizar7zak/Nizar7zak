@@ -1,0 +1,109 @@
+[
+  {
+    "id": "bayzat",
+    "name": "Bayzat",
+    "desc": "AI app builder + agentic cowork layer",
+    "tag": "Enterprise AI",
+    "accent": "#8b5cf6",
+    "logo": "https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg",
+    "hero": true
+  },
+  {
+    "id": "evnno",
+    "name": "evnno",
+    "desc": "Maps link to paid landing page",
+    "tag": "AI SaaS",
+    "accent": "#8b5cf6",
+    "logo": "https://www.evnno.com/evnno-logo.png"
+  },
+  {
+    "id": "dozny",
+    "name": "Dozny",
+    "desc": "AI campaign packs for creators",
+    "tag": "Creator AI",
+    "accent": "#8b5cf6",
+    "logo": "https://www.dozny.com/dozny-icon.svg"
+  },
+  {
+    "id": "gaza-committee",
+    "name": "Gaza Committee",
+    "desc": "Universities emergency support platform",
+    "tag": "Public good",
+    "accent": "#3b82f6",
+    "logo": "https://www.gazauniversities.org/images/site-logo.svg",
+    "logo_w": 56,
+    "logo_h": 36
+  },
+  {
+    "id": "loi",
+    "name": "LOI",
+    "desc": "Saudi law firm \u00b7 EN/AR \u00b7 admin",
+    "tag": "Legal tech",
+    "accent": "#3b82f6",
+    "logo": "https://www.loi.sa/logo.svg"
+  },
+  {
+    "id": "herfa",
+    "name": "Herfa",
+    "desc": "Scroll-driven brand storytelling",
+    "tag": "Motion UX",
+    "accent": "#10b981",
+    "logo": "https://herfa-ymtv.vercel.app/logo-herfa.svg"
+  },
+  {
+    "id": "4co",
+    "name": "4co",
+    "desc": "Events & marketing agency site",
+    "tag": "EN/AR",
+    "accent": "#10b981",
+    "logo": "https://www.4co.sa/icon.svg"
+  },
+  {
+    "id": "saqeefa",
+    "name": "Saqeefa",
+    "desc": "Festival 2026 B2B landing",
+    "tag": "B2B",
+    "accent": "#10b981",
+    "logo": "https://saqeefa-ch26.com/icon.svg"
+  },
+  {
+    "id": "azr",
+    "name": "AZR",
+    "desc": "Corporate site \u00b7 maps \u00b7 admin",
+    "tag": "Corporate",
+    "accent": "#10b981",
+    "logo": "https://azr-brown.vercel.app/icon.svg"
+  },
+  {
+    "id": "iminds",
+    "name": "iMinds",
+    "desc": "Saudi business site on Framer",
+    "tag": "Framer",
+    "accent": "#f59e0b",
+    "logo": "https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg"
+  },
+  {
+    "id": "cons",
+    "name": "Cons",
+    "desc": "Saudi business site on Framer",
+    "tag": "Framer",
+    "accent": "#f59e0b",
+    "logo": "https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg"
+  },
+  {
+    "id": "bouncegame",
+    "name": "BounceGame",
+    "desc": "Interactive Three.js browser game",
+    "tag": "WebGL",
+    "accent": "#ef4444",
+    "logo": "https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg"
+  },
+  {
+    "id": "gamehub",
+    "name": "GameHub",
+    "desc": "Game discovery powered by RAWG",
+    "tag": "Side project",
+    "accent": "#ef4444",
+    "logo": "https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp"
+  }
+]

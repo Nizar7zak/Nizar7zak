@@ -32,64 +32,65 @@
 
 <br/>
 
-<table width="100%" style="table-layout:fixed;border-collapse:separate;border-spacing:0 20px;">
-<tr><td colspan="4" align="center">
+<!-- bento grid: gradient SVG cards · regenerate via scripts/generate-cards.py -->
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/🤖_AI_PLATFORMS-7c3aed?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=28"/>
 
-<br/><sub><i>Enterprise AI builders + solo-shipped SaaS</i></sub>
+<br/><br/>
 
-</td></tr>
-<tr><td colspan="4" align="center">
-<table width="60%" style="table-layout:fixed;border-spacing:0 12px;"><tr>
-<td width="33%" valign="top" align="center"><a href="https://www.bayzat.com/"><img src="https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg" width="52" height="52" alt="Bayzat"/><br/><br/><strong>Bayzat</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="https://www.evnno.com/"><img src="https://www.evnno.com/evnno-logo.png" width="52" height="52" alt="evnno"/><br/><br/><strong>evnno</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="https://www.dozny.com/"><img src="https://www.dozny.com/dozny-icon.svg" width="52" height="52" alt="Dozny"/><br/><br/><strong>Dozny</strong></a></td>
-</tr></table>
-</td></tr>
-<tr><td colspan="4"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
-<tr><td colspan="4" align="center">
+<a href="https://www.bayzat.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bayzat.svg" alt="Bayzat"/></a>
+
+<br/><br/>
+
+<a href="https://www.evnno.com/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.svg" alt="evnno"/></a>
+&nbsp;&nbsp;
+<a href="https://www.dozny.com/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.svg" alt="Dozny"/></a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🌍_IMPACT_%26_INSTITUTIONS-2563eb?style=for-the-badge&labelColor=0ea5e9&logoColor=white&height=28"/>
 
-<br/><sub><i>Coordination, law, and public trust</i></sub>
+<br/><br/>
 
-</td></tr>
-<tr><td colspan="4" align="center">
-<table width="40%" style="table-layout:fixed;"><tr>
-<td width="50%" valign="top" align="center"><a href="https://www.gazauniversities.org/"><img src="https://www.gazauniversities.org/images/site-logo.svg" width="56" height="36" alt="Gaza Committee"/><br/><br/><strong>Gaza Committee</strong></a></td>
-<td width="50%" valign="top" align="center"><a href="https://www.loi.sa/"><img src="https://www.loi.sa/logo.svg" width="52" height="52" alt="LOI"/><br/><br/><strong>LOI</strong></a></td>
-</tr></table>
-</td></tr>
-<tr><td colspan="4"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
-<tr><td colspan="4" align="center">
+<a href="https://www.gazauniversities.org/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.svg" alt="Gaza Committee"/></a>
+&nbsp;&nbsp;
+<a href="https://www.loi.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.svg" alt="LOI"/></a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🇸🇦_SAUDI_BRANDS_%26_AGENCIES-059669?style=for-the-badge&labelColor=16a34a&logoColor=white&height=28"/>
 
-<br/><sub><i>Bilingual sites · motion · admin tools</i></sub>
+<br/><br/>
 
-</td></tr>
-<tr>
-<td width="25%" valign="top" align="center"><a href="https://herfa-ymtv.vercel.app/"><img src="https://herfa-ymtv.vercel.app/logo-herfa.svg" width="52" height="52" alt="Herfa"/><br/><br/><strong>Herfa</strong></a></td>
-<td width="25%" valign="top" align="center"><a href="https://www.4co.sa/"><img src="https://www.4co.sa/icon.svg" width="52" height="52" alt="4co"/><br/><br/><strong>4co</strong></a></td>
-<td width="25%" valign="top" align="center"><a href="https://saqeefa-ch26.com/"><img src="https://saqeefa-ch26.com/icon.svg" width="52" height="52" alt="Saqeefa"/><br/><br/><strong>Saqeefa</strong></a></td>
-<td width="25%" valign="top" align="center"><a href="https://azr-brown.vercel.app/"><img src="https://azr-brown.vercel.app/icon.svg" width="52" height="52" alt="AZR"/><br/><br/><strong>AZR</strong></a></td>
-</tr>
-<tr><td colspan="4"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
-<tr><td colspan="4" align="center">
+<a href="https://herfa-ymtv.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.svg" alt="Herfa"/></a>
+&nbsp;&nbsp;
+<a href="https://www.4co.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.svg" alt="4co"/></a>
+
+<br/><br/>
+
+<a href="https://saqeefa-ch26.com/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.svg" alt="Saqeefa"/></a>
+&nbsp;&nbsp;
+<a href="https://azr-brown.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.svg" alt="AZR"/></a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/🎨_FRAMER_%26_PLAYGROUND-ef4444?style=for-the-badge&labelColor=f59e0b&logoColor=white&height=28"/>
 
-<br/><sub><i>Design exports + side experiments</i></sub>
+<br/><br/>
 
-</td></tr>
-<tr>
-<td valign="top" align="center"><a href="https://www.iminds.sa/"><img src="https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg" width="52" height="52" alt="iMinds"/><br/><br/><strong>iMinds</strong></a></td>
-<td valign="top" align="center"><a href="https://www.cons.sa/"><img src="https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg" width="52" height="52" alt="Cons"/><br/><br/><strong>Cons</strong></a></td>
-<td valign="top" align="center"><a href="https://bounce-game-roan.vercel.app/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg" width="52" height="52" alt="BounceGame"/><br/><br/><strong>BounceGame</strong></a></td>
-<td valign="top" align="center"><a href="https://game-hub-zeta-lilac-15.vercel.app/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" width="52" height="52" alt="GameHub"/><br/><br/><strong>GameHub</strong></a></td>
-</tr>
-</table>
+<a href="https://www.iminds.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.svg" alt="iMinds"/></a>
+&nbsp;&nbsp;
+<a href="https://www.cons.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.svg" alt="Cons"/></a>
+
+<br/><br/>
+
+<a href="https://bounce-game-roan.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.svg" alt="BounceGame"/></a>
+&nbsp;&nbsp;
+<a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.svg" alt="GameHub"/></a>
+
+</div>
 
 <br />
 
