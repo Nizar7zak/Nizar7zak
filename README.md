@@ -28,12 +28,6 @@ I build products where **business value, interface craft, and engineering discip
 
 From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR experiments. I own the whole path: **idea → UX → architecture → code → deploy → iterate.**
 
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/terminal.svg" alt="Terminal: class NezarZakout extends Developer" />
-
-</div>
-
 <br />
 
 ---
@@ -94,6 +88,14 @@ From AI platforms and SaaS dashboards to bilingual Saudi brand sites and AR expe
 <tr><td colspan="2"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
 <tr><td width="100" align="center" valign="middle"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" width="56" height="56" alt="GameHub"/></td><td valign="top"><a href="https://game-hub-zeta-lilac-15.vercel.app/"><strong>GameHub</strong></a> <a href="https://game-hub-zeta-lilac-15.vercel.app/"><sup>↗</sup></a><br/><sub>Game discovery app powered by the RAWG API.</sub><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/RAWG-7c3aed?style=flat-square"/></td></tr>
 </table>
+
+<br />
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/terminal.svg" alt="Terminal: class NezarZakout extends Developer" />
+
+</div>
 
 <br />
 
