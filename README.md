@@ -52,8 +52,9 @@ class NezarZakout extends Developer {
 
 </div>
 
-*Full products I designed, built, and shipped solo — AI generation, payments, deploy pipelines, the works.*
+*From enterprise AI builders to solo-shipped SaaS — generation, payments, deploy pipelines, the works.*
 
+- <img src="https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg" width="18" height="18" valign="middle" alt="Bayzat"/> **[Bayzat](https://www.bayzat.com/)** — Building an AI app builder similar to v0 and Lovable — prompt-to-UI generation inside Bayzat's work-life platform.
 - ⚡ **[evnno](https://www.evnno.com/)** — Turns a Google Maps link into a paid, client-approved landing page. AI generation · Stripe · auto-deploys to Vercel.
 - 🎨 **[Dozny](https://www.dozny.com/)** — AI campaign packs for creators selling to clients. Share a board → get paid → deliver. OpenAI · AWS · Stripe.
 
