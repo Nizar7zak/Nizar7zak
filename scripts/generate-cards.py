@@ -198,15 +198,13 @@ def rounded_rect(draw: ImageDraw.ImageDraw, xy, radius: int, fill=None, outline=
 
 
 def draw_tag(draw: ImageDraw.ImageDraw, font, text: str, x: int, y: int, accent: str) -> int:
-    rgb = hex_rgb(accent)
     bbox = draw.textbbox((0, 0), text, font=font)
     tw = bbox[2] - bbox[0]
     pad_x = 10
     w = tw + pad_x * 2
     h = 22
-    inner = tuple(max(0, c - 40) for c in rgb)
-    rounded_rect(draw, (x, y, x + w, y + h), 10, fill=inner, outline=accent, width=1)
-    draw.text((x + pad_x, y + 4), text, fill="#ffffff", font=font)
+    rounded_rect(draw, (x, y, x + w, y + h), 10, fill=accent, outline=accent, width=1)
+    draw.text((x + pad_x, y + 4), text, fill=(255, 255, 255), font=font)
     return w + 8
 
 
@@ -248,7 +246,7 @@ def render_card(p: dict) -> Image.Image:
     title_font = ImageFont.truetype(FONT_BOLD, 22 if hero else 19)
     desc_font = ImageFont.truetype(FONT_REG, 14 if hero else 13)
     desc2_font = ImageFont.truetype(FONT_REG, 12)
-    tag_font = ImageFont.truetype(FONT_BOLD, 11)
+    tag_font = ImageFont.truetype(FONT_BOLD, 12)
 
     title_y = 38 if hero else 34
     desc_y = 66 if hero else 58

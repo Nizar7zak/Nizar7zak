@@ -39,11 +39,11 @@
 <img src="https://img.shields.io/badge/🤖_AI_PLATFORMS-7c3aed?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=28"/>
 
 <table cellpadding="0" cellspacing="0" border="0" align="center">
-<tr><td align="center"><a href="https://www.bayzat.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bayzat.png" alt="Bayzat"/></a></td></tr>
+<tr><td align="center"><a href="https://www.bayzat.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bayzat.png?v=4" alt="Bayzat"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.png" alt="evnno"/></a></td></tr>
+<tr><td align="center"><a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.png?v=4" alt="evnno"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://www.dozny.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.png" alt="Dozny"/></a></td></tr>
+<tr><td align="center"><a href="https://www.dozny.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.png?v=4" alt="Dozny"/></a></td></tr>
 </table>
 
 <br/>
@@ -52,9 +52,9 @@
 
 <table cellpadding="0" cellspacing="0" border="0" align="center">
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://www.gazauniversities.org/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.png" alt="Gaza Committee"/></a></td></tr>
+<tr><td align="center"><a href="https://www.gazauniversities.org/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.png?v=4" alt="Gaza Committee"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.png" alt="LOI"/></a></td></tr>
+<tr><td align="center"><a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.png?v=4" alt="LOI"/></a></td></tr>
 </table>
 
 <br/>
@@ -63,13 +63,13 @@
 
 <table cellpadding="0" cellspacing="0" border="0" align="center">
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://herfa-ymtv.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.png" alt="Herfa"/></a></td></tr>
+<tr><td align="center"><a href="https://herfa-ymtv.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.png?v=4" alt="Herfa"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://www.4co.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.png" alt="4co"/></a></td></tr>
+<tr><td align="center"><a href="https://www.4co.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.png?v=4" alt="4co"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.png" alt="Saqeefa"/></a></td></tr>
+<tr><td align="center"><a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.png?v=4" alt="Saqeefa"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.png" alt="AZR"/></a></td></tr>
+<tr><td align="center"><a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.png?v=4" alt="AZR"/></a></td></tr>
 </table>
 
 <br/>
@@ -78,13 +78,13 @@
 
 <table cellpadding="0" cellspacing="0" border="0" align="center">
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://www.iminds.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.png" alt="iMinds"/></a></td></tr>
+<tr><td align="center"><a href="https://www.iminds.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.png?v=4" alt="iMinds"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://www.cons.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.png" alt="Cons"/></a></td></tr>
+<tr><td align="center"><a href="https://www.cons.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.png?v=4" alt="Cons"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://bounce-game-roan.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.png" alt="BounceGame"/></a></td></tr>
+<tr><td align="center"><a href="https://bounce-game-roan.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.png?v=4" alt="BounceGame"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.png" alt="GameHub"/></a></td></tr>
+<tr><td align="center"><a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.png?v=4" alt="GameHub"/></a></td></tr>
 </table>
 
 </div>
@@ -167,10 +167,10 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/787ad5b5-cea7-4c0f-84db-a804a7e123a2/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png" alt="Cloud Practitioner"/></a>
-<a href="https://www.credly.com/badges/86e4acda-da36-4c17-ad5a-3e004e38d257/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/187437809-9cea7190-01c7-482e-81fc-f888e3782824.png" alt="Solutions Architect"/></a>
-<a href="https://www.credly.com/badges/6035d571-3bfd-42b3-bce7-bf5b8e37ae32/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/254238177-e17e055e-c579-4f1d-98af-55c5b4baca5b.png" alt="Developer Associate"/></a>
-<a href="https://www.credly.com/badges/8bd81c16-646e-430b-bdfe-1af02fe9a2f1/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/235106971-038b8b83-ec61-424b-b8b7-64f63761458b.png" alt="AWS Instructor"/></a>
+<a href="https://www.credly.com/badges/787ad5b5-cea7-4c0f-84db-a804a7e123a2/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/184443807-a63a0c6d-2c54-4cab-a0ca-32901085071d.png?v=4" alt="Cloud Practitioner"/></a>
+<a href="https://www.credly.com/badges/86e4acda-da36-4c17-ad5a-3e004e38d257/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/187437809-9cea7190-01c7-482e-81fc-f888e3782824.png?v=4" alt="Solutions Architect"/></a>
+<a href="https://www.credly.com/badges/6035d571-3bfd-42b3-bce7-bf5b8e37ae32/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/254238177-e17e055e-c579-4f1d-98af-55c5b4baca5b.png?v=4" alt="Developer Associate"/></a>
+<a href="https://www.credly.com/badges/8bd81c16-646e-430b-bdfe-1af02fe9a2f1/public_url"><img width="115" src="https://user-images.githubusercontent.com/72108088/235106971-038b8b83-ec61-424b-b8b7-64f63761458b.png?v=4" alt="AWS Instructor"/></a>
 
 </div>
 
@@ -180,11 +180,11 @@
 
 <table width="100%" style="table-layout:fixed;">
 <colgroup><col width="56"/><col/></colgroup>
-<tr><td width="56" align="center" valign="middle"><a href="https://www.linkedin.com/in/aabdelrahmanm/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/ahmed-abdelrahman.jpg" width="48" height="48" style="border-radius:50%;" alt="Ahmed Abdelrahman"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/aabdelrahmanm/"><strong>Ahmed Abdelrahman</strong></a> <a href="https://www.linkedin.com/in/aabdelrahmanm/"><sup>↗</sup></a><br/><img src="https://flagcdn.com/w40/ae.png" width="24" height="18" valign="middle" alt="UAE"/> <img src="https://img.shields.io/badge/CTO-2563eb?style=flat-square&labelColor=1d4ed8"/> <img src="https://img.shields.io/badge/Bayzat-000?style=flat-square"/><br/><br/><sub><i>Nezar earned the Bayzat Rising Star Award in his first six months, shipping AI product work including an app builder and agentic cowork tools.</i></sub></td></tr>
+<tr><td width="56" align="center" valign="middle"><a href="https://www.linkedin.com/in/aabdelrahmanm/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/ahmed-abdelrahman.jpg" width="48" height="48" style="border-radius:50%;" alt="Ahmed Abdelrahman"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/aabdelrahmanm/"><strong>Ahmed Abdelrahman</strong></a> <a href="https://www.linkedin.com/in/aabdelrahmanm/"><sup>↗</sup></a><br/><img src="https://flagcdn.com/w40/ae.png?v=4" width="24" height="18" valign="middle" alt="UAE"/> <img src="https://img.shields.io/badge/CTO-2563eb?style=flat-square&labelColor=1d4ed8"/> <img src="https://img.shields.io/badge/Bayzat-000?style=flat-square"/><br/><br/><sub><i>Nezar earned the Bayzat Rising Star Award in his first six months, shipping AI product work including an app builder and agentic cowork tools.</i></sub></td></tr>
 <tr><td colspan="2"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
-<tr><td width="56" align="center" valign="middle"><a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/laurent-rime.jpg" width="48" height="48" style="border-radius:50%;" alt="Laurent Rime"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><strong>Laurent Rime</strong></a> <a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><sup>↗</sup></a><br/><img src="https://flagcdn.com/w40/ch.png" width="24" height="18" valign="middle" alt="Switzerland"/> <img src="https://img.shields.io/badge/CEO-2563eb?style=flat-square&labelColor=1d4ed8"/> <img src="https://img.shields.io/badge/A--LL_Creative_Technology-000?style=flat-square"/><br/><br/><sub><i>"Exceptional dedication and an impressive ability to research and develop in the Web AR domain... surpassed our expectations with rapid progress and innovative thinking."</i></sub></td></tr>
+<tr><td width="56" align="center" valign="middle"><a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/laurent-rime.jpg" width="48" height="48" style="border-radius:50%;" alt="Laurent Rime"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><strong>Laurent Rime</strong></a> <a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><sup>↗</sup></a><br/><img src="https://flagcdn.com/w40/ch.png?v=4" width="24" height="18" valign="middle" alt="Switzerland"/> <img src="https://img.shields.io/badge/CEO-2563eb?style=flat-square&labelColor=1d4ed8"/> <img src="https://img.shields.io/badge/A--LL_Creative_Technology-000?style=flat-square"/><br/><br/><sub><i>"Exceptional dedication and an impressive ability to research and develop in the Web AR domain... surpassed our expectations with rapid progress and innovative thinking."</i></sub></td></tr>
 <tr><td colspan="2"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
-<tr><td width="56" align="center" valign="middle"><a href="https://www.linkedin.com/in/tomduggan85/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/tom-duggan.jpg" width="48" height="48" style="border-radius:50%;" alt="Tom Duggan"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/tomduggan85/"><strong>Tom Duggan</strong></a> <a href="https://www.linkedin.com/in/tomduggan85/"><sup>↗</sup></a><br/><img src="https://flagcdn.com/w40/us.png" width="24" height="18" valign="middle" alt="USA"/> <img src="https://img.shields.io/badge/Senior_Software_Engineer-2563eb?style=flat-square&labelColor=1d4ed8"/> <img src="https://img.shields.io/badge/Anduril-000?style=flat-square"/><br/><br/><sub><i>"A drive to learn new technologies and apply them to real-world problems... thoughtful, pragmatic, and asks the right questions."</i></sub></td></tr>
+<tr><td width="56" align="center" valign="middle"><a href="https://www.linkedin.com/in/tomduggan85/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/tom-duggan.jpg" width="48" height="48" style="border-radius:50%;" alt="Tom Duggan"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/tomduggan85/"><strong>Tom Duggan</strong></a> <a href="https://www.linkedin.com/in/tomduggan85/"><sup>↗</sup></a><br/><img src="https://flagcdn.com/w40/us.png?v=4" width="24" height="18" valign="middle" alt="USA"/> <img src="https://img.shields.io/badge/Senior_Software_Engineer-2563eb?style=flat-square&labelColor=1d4ed8"/> <img src="https://img.shields.io/badge/Anduril-000?style=flat-square"/><br/><br/><sub><i>"A drive to learn new technologies and apply them to real-world problems... thoughtful, pragmatic, and asks the right questions."</i></sub></td></tr>
 </table>
 
 <br />
