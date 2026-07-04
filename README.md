@@ -55,8 +55,8 @@ class NezarZakout extends Developer {
 *From enterprise AI builders to solo-shipped SaaS — generation, payments, deploy pipelines, the works.*
 
 - <img src="https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg" width="18" height="18" valign="middle" alt="Bayzat"/> **[Bayzat](https://www.bayzat.com/)** — Building an AI app builder similar to v0 and Lovable — prompt-to-UI generation inside Bayzat's work-life platform.
-- ⚡ **[evnno](https://www.evnno.com/)** — Turns a Google Maps link into a paid, client-approved landing page. AI generation · Stripe · auto-deploys to Vercel.
-- 🎨 **[Dozny](https://www.dozny.com/)** — AI campaign packs for creators selling to clients. Share a board → get paid → deliver. OpenAI · AWS · Stripe.
+- <img src="https://www.evnno.com/evnno-logo.png" width="18" height="18" valign="middle" alt="evnno"/> **[evnno](https://www.evnno.com/)** — Turns a Google Maps link into a paid, client-approved landing page. AI generation · Stripe · auto-deploys to Vercel.
+- <img src="https://www.dozny.com/dozny-icon.svg" width="18" height="18" valign="middle" alt="Dozny"/> **[Dozny](https://www.dozny.com/)** — AI campaign packs for creators selling to clients. Share a board → get paid → deliver. OpenAI · AWS · Stripe.
 
 ---
 
@@ -68,8 +68,8 @@ class NezarZakout extends Developer {
 
 *Platforms that carry real weight — coordination, law, and public trust.*
 
-- 🏛️ **[Emergency Committee](https://www.gazauniversities.org/)** — Official platform for Gaza's universities: international support coordination, updates, and a research portal.
-- ⚖️ **[LOI](https://www.loi.sa/)** — Saudi law firm platform. Bilingual EN/AR, services, blog, and a full super-admin dashboard.
+- <img src="https://www.gazauniversities.org/images/site-logo.svg" width="24" height="18" valign="middle" alt="Emergency Committee"/> **[Emergency Committee](https://www.gazauniversities.org/)** — Official platform for Gaza's universities: international support coordination, updates, and a research portal.
+- <img src="https://www.loi.sa/logo.svg" width="18" height="18" valign="middle" alt="LOI"/> **[LOI](https://www.loi.sa/)** — Saudi law firm platform. Bilingual EN/AR, services, blog, and a full super-admin dashboard.
 
 ---
 
@@ -81,12 +81,12 @@ class NezarZakout extends Developer {
 
 *Premium bilingual sites for the Saudi market — design systems, motion, and admin tools.*
 
-- ✨ **[Herfa](https://herfa-ymtv.vercel.app/)** — Creative services with elegant scroll-driven storytelling.
-- 🎪 **[4co](https://www.4co.sa/)** — Events & marketing agency. Exhibitions, conferences, production. EN/AR.
-- 🎵 **[Saqeefa](https://saqeefa-ch26.com/)** — Summer Festival 2026 B2B sponsorship landing.
-- 🏢 **[AZR](https://azr-brown.vercel.app/)** — Corporate site with contact forms, maps, and admin dashboard.
-- 💡 **[iMinds](https://www.iminds.sa/)** — Business site crafted in Framer.
-- 🔷 **[Cons](https://www.cons.sa/)** — Business site crafted in Framer.
+- <img src="https://herfa-ymtv.vercel.app/logo-herfa.svg" width="18" height="18" valign="middle" alt="Herfa"/> **[Herfa](https://herfa-ymtv.vercel.app/)** — Creative services with elegant scroll-driven storytelling.
+- <img src="https://www.4co.sa/icon.svg" width="18" height="18" valign="middle" alt="4co"/> **[4co](https://www.4co.sa/)** — Events & marketing agency. Exhibitions, conferences, production. EN/AR.
+- <img src="https://saqeefa-ch26.com/icon.svg" width="18" height="18" valign="middle" alt="Saqeefa"/> **[Saqeefa](https://saqeefa-ch26.com/)** — Summer Festival 2026 B2B sponsorship landing.
+- <img src="https://azr-brown.vercel.app/icon.svg" width="18" height="18" valign="middle" alt="AZR"/> **[AZR](https://azr-brown.vercel.app/)** — Corporate site with contact forms, maps, and admin dashboard.
+- <img src="https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg" width="18" height="18" valign="middle" alt="iMinds"/> **[iMinds](https://www.iminds.sa/)** — Business site crafted in Framer.
+- <img src="https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg" width="18" height="18" valign="middle" alt="Cons"/> **[Cons](https://www.cons.sa/)** — Business site crafted in Framer.
 
 ---
 
@@ -98,8 +98,8 @@ class NezarZakout extends Developer {
 
 *Where I break things for fun.*
 
-- 🏀 **[BounceGame](https://bounce-game-roan.vercel.app/)** — Interactive browser game.
-- 🕹️ **[GameHub](https://game-hub-zeta-lilac-15.vercel.app/)** — Game discovery app powered by the RAWG API.
+- <img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg" width="18" height="18" valign="middle" alt="BounceGame"/> **[BounceGame](https://bounce-game-roan.vercel.app/)** — Interactive browser game.
+- <img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp" width="18" height="18" valign="middle" alt="GameHub"/> **[GameHub](https://game-hub-zeta-lilac-15.vercel.app/)** — Game discovery app powered by the RAWG API.
 
 <br />
 
