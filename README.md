@@ -61,7 +61,7 @@ class NezarZakout extends Developer {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🌍_IMPACT_&_INSTITUTIONS-2563eb?style=for-the-badge&labelColor=0ea5e9&logoColor=white&height=32"/>
+<img src="https://img.shields.io/badge/🌍_IMPACT_%26_INSTITUTIONS-2563eb?style=for-the-badge&labelColor=0ea5e9&logoColor=white&height=32"/>
 
 </div>
 
@@ -74,7 +74,7 @@ class NezarZakout extends Developer {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🇸🇦_SAUDI_BRANDS_&_AGENCIES-059669?style=for-the-badge&labelColor=16a34a&logoColor=white&height=32"/>
+<img src="https://img.shields.io/badge/🇸🇦_SAUDI_BRANDS_%26_AGENCIES-059669?style=for-the-badge&labelColor=16a34a&logoColor=white&height=32"/>
 
 </div>
 
