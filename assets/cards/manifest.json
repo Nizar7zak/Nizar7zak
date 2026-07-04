@@ -2,108 +2,159 @@
   {
     "id": "bayzat",
     "name": "Bayzat",
-    "desc": "AI app builder + agentic cowork layer",
-    "tag": "Enterprise AI",
+    "desc": "AI app builder + agentic cowork layer on Bayzat's work-life platform",
+    "desc2": "Next.js \u00b7 TypeScript \u00b7 v0-style builder \u00b7 agentic tools shipped to production",
+    "tags": [
+      "Enterprise AI",
+      "Full-stack @ Bayzat"
+    ],
     "accent": "#8b5cf6",
-    "logo": "https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg",
+    "logo_url": "https://cdn.jsdelivr.net/gh/GLINCKER/thesvg@main/public/icons/bayzat/default.svg",
+    "logo_file": "bayzat.svg",
     "hero": true
   },
   {
     "id": "evnno",
     "name": "evnno",
-    "desc": "Maps link to paid landing page",
-    "tag": "AI SaaS",
+    "desc": "Maps link to paid landing page for freelancers",
+    "tags": [
+      "AI SaaS",
+      "Stripe"
+    ],
     "accent": "#8b5cf6",
-    "logo": "https://www.evnno.com/evnno-logo.png"
+    "logo_url": "https://www.evnno.com/evnno-logo.png",
+    "logo_file": "evnno.png"
   },
   {
     "id": "dozny",
     "name": "Dozny",
-    "desc": "AI campaign packs for creators",
-    "tag": "Creator AI",
+    "desc": "AI campaign and creative packs for creators",
+    "tags": [
+      "Creator AI",
+      "AWS"
+    ],
     "accent": "#8b5cf6",
-    "logo": "https://www.dozny.com/dozny-icon.svg"
+    "logo_url": "https://www.dozny.com/dozny-icon.svg",
+    "logo_file": "dozny.svg"
   },
   {
     "id": "gaza-committee",
     "name": "Gaza Committee",
-    "desc": "Universities emergency support platform",
-    "tag": "Public good",
+    "desc": "Universities emergency support and coordination platform",
+    "tags": [
+      "Public good",
+      "Next.js"
+    ],
     "accent": "#3b82f6",
-    "logo": "https://www.gazauniversities.org/images/site-logo.svg",
+    "logo_url": "https://www.gazauniversities.org/images/site-logo.svg",
+    "logo_file": "gaza-committee.svg",
     "logo_w": 56,
     "logo_h": 36
   },
   {
     "id": "loi",
     "name": "LOI",
-    "desc": "Saudi law firm \u00b7 EN/AR \u00b7 admin",
-    "tag": "Legal tech",
+    "desc": "Saudi law firm site with EN/AR and admin dashboard",
+    "tags": [
+      "Legal tech",
+      "EN/AR"
+    ],
     "accent": "#3b82f6",
-    "logo": "https://www.loi.sa/logo.svg"
+    "logo_url": "https://www.loi.sa/logo.svg",
+    "logo_file": "loi.svg"
   },
   {
     "id": "herfa",
     "name": "Herfa",
-    "desc": "Scroll-driven brand storytelling",
-    "tag": "Motion UX",
+    "desc": "Scroll-driven brand storytelling for the Saudi market",
+    "tags": [
+      "Motion UX",
+      "Next.js"
+    ],
     "accent": "#10b981",
-    "logo": "https://herfa-ymtv.vercel.app/logo-herfa.svg"
+    "logo_url": "https://herfa-ymtv.vercel.app/logo-herfa.svg",
+    "logo_file": "herfa.svg"
   },
   {
     "id": "4co",
     "name": "4co",
-    "desc": "Events & marketing agency site",
-    "tag": "EN/AR",
+    "desc": "Events and marketing agency site \u00b7 bilingual EN/AR",
+    "tags": [
+      "Agency",
+      "EN/AR"
+    ],
     "accent": "#10b981",
-    "logo": "https://www.4co.sa/icon.svg"
+    "logo_url": "https://www.4co.sa/icon.svg",
+    "logo_file": "4co.svg"
   },
   {
     "id": "saqeefa",
     "name": "Saqeefa",
-    "desc": "Festival 2026 B2B landing",
-    "tag": "B2B",
+    "desc": "Festival 2026 B2B landing and lead capture",
+    "tags": [
+      "B2B",
+      "Next.js"
+    ],
     "accent": "#10b981",
-    "logo": "https://saqeefa-ch26.com/icon.svg"
+    "logo_url": "https://saqeefa-ch26.com/icon.svg",
+    "logo_file": "saqeefa.svg"
   },
   {
     "id": "azr",
     "name": "AZR",
-    "desc": "Corporate site \u00b7 maps \u00b7 admin",
-    "tag": "Corporate",
+    "desc": "Corporate site with maps integration and admin panel",
+    "tags": [
+      "Corporate",
+      "Admin"
+    ],
     "accent": "#10b981",
-    "logo": "https://azr-brown.vercel.app/icon.svg"
+    "logo_url": "https://azr-brown.vercel.app/icon.svg",
+    "logo_file": "azr.svg"
   },
   {
     "id": "iminds",
     "name": "iMinds",
-    "desc": "Saudi business site on Framer",
-    "tag": "Framer",
+    "desc": "Saudi business marketing site built on Framer",
+    "tags": [
+      "Framer",
+      "Saudi"
+    ],
     "accent": "#f59e0b",
-    "logo": "https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg"
+    "logo_url": "https://framerusercontent.com/images/TbEPcTSAwkumrs7w3uC2zafho.svg",
+    "logo_file": "iminds.svg"
   },
   {
     "id": "cons",
     "name": "Cons",
-    "desc": "Saudi business site on Framer",
-    "tag": "Framer",
+    "desc": "Saudi business marketing site built on Framer",
+    "tags": [
+      "Framer",
+      "Saudi"
+    ],
     "accent": "#f59e0b",
-    "logo": "https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg"
+    "logo_url": "https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg",
+    "logo_file": "cons.svg"
   },
   {
     "id": "bouncegame",
     "name": "BounceGame",
-    "desc": "Interactive Three.js browser game",
-    "tag": "WebGL",
+    "desc": "Interactive Three.js browser game experiment",
+    "tags": [
+      "WebGL",
+      "Three.js"
+    ],
     "accent": "#ef4444",
-    "logo": "https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg"
+    "logo_file": "bouncegame.svg"
   },
   {
     "id": "gamehub",
     "name": "GameHub",
-    "desc": "Game discovery powered by RAWG",
-    "tag": "Side project",
+    "desc": "Game discovery app powered by the RAWG API",
+    "tags": [
+      "Side project",
+      "TypeScript"
+    ],
     "accent": "#ef4444",
-    "logo": "https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/gamehub.webp"
+    "logo_file": "gamehub.webp"
   }
 ]

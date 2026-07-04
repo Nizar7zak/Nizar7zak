@@ -1,26 +1,21 @@
-<svg width="448" height="104" viewBox="0 0 448 104" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="920" height="120" viewBox="0 0 920 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="g-cons" x1="0" y1="0" x2="448" y2="104" gradientUnits="userSpaceOnUse">
+    <linearGradient id="g-cons" x1="0" y1="0" x2="920" y2="120" gradientUnits="userSpaceOnUse">
       <stop stop-color="#f59e0b" stop-opacity="0.85"/>
       <stop offset="0.55" stop-color="#8b5cf6" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#06b6d4" stop-opacity="0.75"/>
     </linearGradient>
-    <filter id="gl-cons" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <clipPath id="clip-cons">
-      <rect x="24" y="28" width="48" height="48" rx="10"/>
+      <rect x="28" y="36" width="48" height="48" rx="10"/>
     </clipPath>
   </defs>
-  <rect x="1" y="1" width="446" height="102" rx="16" fill="#14141f"/>
-  <rect x="1" y="1" width="446" height="102" rx="16" fill="url(#g-cons)" fill-opacity="0.08"/>
-  <rect x="0.5" y="0.5" width="447" height="103" rx="16.5" stroke="url(#g-cons)" stroke-opacity="0.65"/>
+  <rect x="1" y="1" width="918" height="118" rx="16" fill="#14141f"/>
+  <rect x="1" y="1" width="918" height="118" rx="16" fill="url(#g-cons)" fill-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="919" height="119" rx="16.5" stroke="url(#g-cons)" stroke-opacity="0.65"/>
   <rect x="18" y="18" width="60" height="60" rx="14" fill="#ffffff" fill-opacity="0.04"/>
-  <image href="https://framerusercontent.com/images/BbBeUvGeBgnKjzxe6enNChMqVtU.svg" x="24" y="28" width="48" height="48" clip-path="url(#clip-cons)" preserveAspectRatio="xMidYMid meet"/>
-  <text x="94" y="42" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">Cons</text>
-  <text x="94" y="58" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Saudi business site on Framer</text>
-  <rect x="94" y="68" width="58.8" height="20" rx="10" fill="#f59e0b" fill-opacity="0.18"/>
-  <rect x="94" y="68" width="58.8" height="20" rx="10" stroke="#f59e0b" stroke-opacity="0.45"/>
-  <text x="103" y="82" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#f59e0b">Framer</text>
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI0MyIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0UzNjQwNSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNDEuMDM3IDBjLjcyNyAwIDEuMjM1IDAgMS42MjQuMDQyLjg3LjA5MiAxLjIuNDA4IDEuMjk2IDEuMjY2LjA0Mi4zOC4wNDMuODc3LjA0MyAxLjU4OHYzNy4yMDhjMCAuNzExIDAgMS4yMDctLjA0MyAxLjU4OC0uMTAyLjkyLS4zNzMgMS4xNjgtMS4yOTYgMS4yNjYtLjM5LjA0MS0uODk3LjA0Mi0xLjYyNC4wNDJIMi45NjNjLS43MDIgMC0xLjIgMC0xLjU4My0uMDM4LS45MzgtLjA5LTEuMjM1LS4zNTUtMS4zMzctMS4yN0MwIDQxLjMxMiAwIDQwLjgxNSAwIDQwLjEwNFYyLjg5NmMwLS43MTEgMC0xLjIwNy4wNDMtMS41ODhDLjEzOC40NTIuNDcuMTM0IDEuMzM5LjA0MiAxLjcyOSAwIDIuMjM2IDAgMi45NjMgMHpNMzAuMjY2IDguMzE4bC0xNi44NiA0LjAyMmMtLjQyOS4xMDktLjUzLjIzNy0uNTMuNjQ1djE2Ljg5OGMwIC40OS4wNTguNjM4LjUzLjc1MmwxNi44NiA0LjAyMmMuNjYuMTUuODU3LjAyNC44NTctLjY0N1Y4Ljk2NmMwLS41ODctLjE3NC0uODMzLS44NTctLjY0OCIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+" x="28" y="36" width="48" height="48" clip-path="url(#clip-cons)" preserveAspectRatio="xMidYMid meet"/>
+  <text x="100" y="46" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Cons</text>
+  <text x="100" y="66" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94a3b8">Saudi business marketing site built on Framer</text>
+  <rect x="100" y="88" width="58.8" height="20" rx="10" fill="#f59e0b" fill-opacity="0.18"/><rect x="100" y="88" width="58.8" height="20" rx="10" stroke="#f59e0b" stroke-opacity="0.45"/><text x="109" y="102" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#f59e0b">Framer</text>
+  <rect x="166.8" y="88" width="52.0" height="20" rx="10" fill="#f59e0b" fill-opacity="0.18"/><rect x="166.8" y="88" width="52.0" height="20" rx="10" stroke="#f59e0b" stroke-opacity="0.45"/><text x="175.8" y="102" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#f59e0b">Saudi</text>
 </svg>

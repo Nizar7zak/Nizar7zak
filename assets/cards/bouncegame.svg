@@ -1,26 +1,21 @@
-<svg width="448" height="104" viewBox="0 0 448 104" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="920" height="120" viewBox="0 0 920 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="g-bouncegame" x1="0" y1="0" x2="448" y2="104" gradientUnits="userSpaceOnUse">
+    <linearGradient id="g-bouncegame" x1="0" y1="0" x2="920" y2="120" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ef4444" stop-opacity="0.85"/>
       <stop offset="0.55" stop-color="#8b5cf6" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#06b6d4" stop-opacity="0.75"/>
     </linearGradient>
-    <filter id="gl-bouncegame" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <clipPath id="clip-bouncegame">
-      <rect x="24" y="28" width="48" height="48" rx="10"/>
+      <rect x="28" y="36" width="48" height="48" rx="10"/>
     </clipPath>
   </defs>
-  <rect x="1" y="1" width="446" height="102" rx="16" fill="#14141f"/>
-  <rect x="1" y="1" width="446" height="102" rx="16" fill="url(#g-bouncegame)" fill-opacity="0.08"/>
-  <rect x="0.5" y="0.5" width="447" height="103" rx="16.5" stroke="url(#g-bouncegame)" stroke-opacity="0.65"/>
+  <rect x="1" y="1" width="918" height="118" rx="16" fill="#14141f"/>
+  <rect x="1" y="1" width="918" height="118" rx="16" fill="url(#g-bouncegame)" fill-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="919" height="119" rx="16.5" stroke="url(#g-bouncegame)" stroke-opacity="0.65"/>
   <rect x="18" y="18" width="60" height="60" rx="14" fill="#ffffff" fill-opacity="0.04"/>
-  <image href="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/logos/bouncegame.svg" x="24" y="28" width="48" height="48" clip-path="url(#clip-bouncegame)" preserveAspectRatio="xMidYMid meet"/>
-  <text x="94" y="42" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">BounceGame</text>
-  <text x="94" y="58" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Interactive Three.js browser game</text>
-  <rect x="94" y="68" width="52.0" height="20" rx="10" fill="#ef4444" fill-opacity="0.18"/>
-  <rect x="94" y="68" width="52.0" height="20" rx="10" stroke="#ef4444" stroke-opacity="0.45"/>
-  <text x="103" y="82" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#ef4444">WebGL</text>
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSI+CiAgPGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTQiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iIzExMTgyNyIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8cGF0aCBkPSJNMTYgNC41IDE5LjIgMTAuMiAxNiAxNS41IDEyLjggMTAuMiAxNiA0LjVaIiBmaWxsPSIjMTExODI3Ii8+CiAgPHBhdGggZD0iTTguNSAxMS41IDE0LjIgMTMuOCAxNS41IDE2IDEzLjggMjEuOCA4LjUgMTkuNSA2LjggMTMuOCA4LjUgMTEuNVoiIGZpbGw9IiMxMTE4MjciLz4KICA8cGF0aCBkPSJNMjMuNSAxMS41IDIxLjggMTMuOCAxOS41IDE5LjUgMTQuMiAyMS44IDE1LjUgMTYgMTQuMiAxMy44IDE5LjUgOC41IDIzLjUgMTEuNVoiIGZpbGw9IiMxMTE4MjciLz4KICA8cGF0aCBkPSJNMTYgMTYuNSAxMy44IDIxLjggMTYgMjcuNSAxOC4yIDIxLjggMTYgMTYuNVoiIGZpbGw9IiMxMTE4MjciLz4KICA8cGF0aCBkPSJNMTkuNSAxOS41IDIxLjggMTMuOCAyMy41IDE5LjUgMjEuOCAyNS4yIDE2IDI3LjUgMTguMiAyMS44IDE5LjUgMTkuNVoiIGZpbGw9IiMxMTE4MjciLz4KPC9zdmc+Cg==" x="28" y="36" width="48" height="48" clip-path="url(#clip-bouncegame)" preserveAspectRatio="xMidYMid meet"/>
+  <text x="100" y="46" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f8fafc">BounceGame</text>
+  <text x="100" y="66" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94a3b8">Interactive Three.js browser game experiment</text>
+  <rect x="100" y="88" width="52.0" height="20" rx="10" fill="#ef4444" fill-opacity="0.18"/><rect x="100" y="88" width="52.0" height="20" rx="10" stroke="#ef4444" stroke-opacity="0.45"/><text x="109" y="102" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#ef4444">WebGL</text>
+  <rect x="160.0" y="88" width="72.4" height="20" rx="10" fill="#ef4444" fill-opacity="0.18"/><rect x="160.0" y="88" width="72.4" height="20" rx="10" stroke="#ef4444" stroke-opacity="0.45"/><text x="169.0" y="102" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#ef4444">Three.js</text>
 </svg>

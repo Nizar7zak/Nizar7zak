@@ -44,9 +44,11 @@
 
 <br/><br/>
 
-<a href="https://www.evnno.com/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.svg" alt="evnno"/></a>
-&nbsp;&nbsp;
-<a href="https://www.dozny.com/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.svg" alt="Dozny"/></a>
+<a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.svg" alt="evnno"/></a>
+
+<br/><br/>
+
+<a href="https://www.dozny.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/dozny.svg" alt="Dozny"/></a>
 
 <br/><br/>
 
@@ -54,9 +56,11 @@
 
 <br/><br/>
 
-<a href="https://www.gazauniversities.org/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.svg" alt="Gaza Committee"/></a>
-&nbsp;&nbsp;
-<a href="https://www.loi.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.svg" alt="LOI"/></a>
+<a href="https://www.gazauniversities.org/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gaza-committee.svg" alt="Gaza Committee"/></a>
+
+<br/><br/>
+
+<a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.svg" alt="LOI"/></a>
 
 <br/><br/>
 
@@ -64,15 +68,19 @@
 
 <br/><br/>
 
-<a href="https://herfa-ymtv.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.svg" alt="Herfa"/></a>
-&nbsp;&nbsp;
-<a href="https://www.4co.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.svg" alt="4co"/></a>
+<a href="https://herfa-ymtv.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/herfa.svg" alt="Herfa"/></a>
 
 <br/><br/>
 
-<a href="https://saqeefa-ch26.com/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.svg" alt="Saqeefa"/></a>
-&nbsp;&nbsp;
-<a href="https://azr-brown.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.svg" alt="AZR"/></a>
+<a href="https://www.4co.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/4co.svg" alt="4co"/></a>
+
+<br/><br/>
+
+<a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.svg" alt="Saqeefa"/></a>
+
+<br/><br/>
+
+<a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.svg" alt="AZR"/></a>
 
 <br/><br/>
 
@@ -80,15 +88,19 @@
 
 <br/><br/>
 
-<a href="https://www.iminds.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.svg" alt="iMinds"/></a>
-&nbsp;&nbsp;
-<a href="https://www.cons.sa/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.svg" alt="Cons"/></a>
+<a href="https://www.iminds.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/iminds.svg" alt="iMinds"/></a>
 
 <br/><br/>
 
-<a href="https://bounce-game-roan.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.svg" alt="BounceGame"/></a>
-&nbsp;&nbsp;
-<a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="448" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.svg" alt="GameHub"/></a>
+<a href="https://www.cons.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/cons.svg" alt="Cons"/></a>
+
+<br/><br/>
+
+<a href="https://bounce-game-roan.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/bouncegame.svg" alt="BounceGame"/></a>
+
+<br/><br/>
+
+<a href="https://game-hub-zeta-lilac-15.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/gamehub.svg" alt="GameHub"/></a>
 
 </div>
 

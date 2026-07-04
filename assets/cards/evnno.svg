@@ -1,26 +1,21 @@
-<svg width="448" height="104" viewBox="0 0 448 104" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="920" height="120" viewBox="0 0 920 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="g-evnno" x1="0" y1="0" x2="448" y2="104" gradientUnits="userSpaceOnUse">
+    <linearGradient id="g-evnno" x1="0" y1="0" x2="920" y2="120" gradientUnits="userSpaceOnUse">
       <stop stop-color="#8b5cf6" stop-opacity="0.85"/>
       <stop offset="0.55" stop-color="#8b5cf6" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#06b6d4" stop-opacity="0.75"/>
     </linearGradient>
-    <filter id="gl-evnno" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <clipPath id="clip-evnno">
-      <rect x="24" y="28" width="48" height="48" rx="10"/>
+      <rect x="28" y="36" width="48" height="48" rx="10"/>
     </clipPath>
   </defs>
-  <rect x="1" y="1" width="446" height="102" rx="16" fill="#14141f"/>
-  <rect x="1" y="1" width="446" height="102" rx="16" fill="url(#g-evnno)" fill-opacity="0.08"/>
-  <rect x="0.5" y="0.5" width="447" height="103" rx="16.5" stroke="url(#g-evnno)" stroke-opacity="0.65"/>
+  <rect x="1" y="1" width="918" height="118" rx="16" fill="#14141f"/>
+  <rect x="1" y="1" width="918" height="118" rx="16" fill="url(#g-evnno)" fill-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="919" height="119" rx="16.5" stroke="url(#g-evnno)" stroke-opacity="0.65"/>
   <rect x="18" y="18" width="60" height="60" rx="14" fill="#ffffff" fill-opacity="0.04"/>
-  <image href="https://www.evnno.com/evnno-logo.png" x="24" y="28" width="48" height="48" clip-path="url(#clip-evnno)" preserveAspectRatio="xMidYMid meet"/>
-  <text x="94" y="42" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">evnno</text>
-  <text x="94" y="58" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#94a3b8">Maps link to paid landing page</text>
-  <rect x="94" y="68" width="65.6" height="20" rx="10" fill="#8b5cf6" fill-opacity="0.18"/>
-  <rect x="94" y="68" width="65.6" height="20" rx="10" stroke="#8b5cf6" stroke-opacity="0.45"/>
-  <text x="103" y="82" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b5cf6">AI SaaS</text>
+  <image href="data:image/png;base64,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" x="28" y="36" width="48" height="48" clip-path="url(#clip-evnno)" preserveAspectRatio="xMidYMid meet"/>
+  <text x="100" y="46" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f8fafc">evnno</text>
+  <text x="100" y="66" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#94a3b8">Maps link to paid landing page for freelancers</text>
+  <rect x="100" y="88" width="65.6" height="20" rx="10" fill="#8b5cf6" fill-opacity="0.18"/><rect x="100" y="88" width="65.6" height="20" rx="10" stroke="#8b5cf6" stroke-opacity="0.45"/><text x="109" y="102" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b5cf6">AI SaaS</text>
+  <rect x="173.6" y="88" width="58.8" height="20" rx="10" fill="#8b5cf6" fill-opacity="0.18"/><rect x="173.6" y="88" width="58.8" height="20" rx="10" stroke="#8b5cf6" stroke-opacity="0.45"/><text x="182.6" y="102" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b5cf6">Stripe</text>
 </svg>
