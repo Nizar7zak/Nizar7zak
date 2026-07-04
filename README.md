@@ -186,13 +186,13 @@ class NezarZakout extends Developer {
 
 ## 💬 On the Record
 
-> *"Exceptional dedication and an impressive ability to research and develop in the Web AR domain... surpassed our expectations with rapid progress and innovative thinking."*
->
-> **Laurent Rime** · CEO, A-LL Creative Technology 🇨🇭
-
-> *"A drive to learn new technologies and apply them to real-world problems... thoughtful, pragmatic, and asks the right questions."*
->
-> **Tom Duggan** · Senior Software Engineer, Anduril 🇺🇸
+<table width="100%">
+<tr><td width="56" align="center" valign="top"><a href="https://www.linkedin.com/in/aabdelrahmanm/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/ahmed-abdelrahman.jpg" width="48" height="48" style="border-radius:50%;" alt="Ahmed Abdelrahman"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/aabdelrahmanm/"><strong>Ahmed Abdelrahman</strong></a> <a href="https://www.linkedin.com/in/aabdelrahmanm/"><sup>↗</sup></a><br/><sub>CTO · Bayzat 🇦🇪</sub><br/><br/><sub><i>Nezar earned the Bayzat Rising Star Award in his first six months, shipping AI product work including an app builder and agentic cowork tools.</i></sub></td></tr>
+<tr><td colspan="2"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
+<tr><td align="center" valign="top"><a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/laurent-rime.jpg" width="48" height="48" style="border-radius:50%;" alt="Laurent Rime"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><strong>Laurent Rime</strong></a> <a href="https://www.linkedin.com/in/laurent-rime-31714b16/"><sup>↗</sup></a><br/><sub>CEO · A-LL Creative Technology 🇨🇭</sub><br/><br/><sub><i>"Exceptional dedication and an impressive ability to research and develop in the Web AR domain... surpassed our expectations with rapid progress and innovative thinking."</i></sub></td></tr>
+<tr><td colspan="2"><hr style="height:1px;border:none;background:#21262d;"/></td></tr>
+<tr><td align="center" valign="top"><a href="https://www.linkedin.com/in/tomduggan85/"><img src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/testimonials/tom-duggan.jpg" width="48" height="48" style="border-radius:50%;" alt="Tom Duggan"/></a></td><td valign="top"><a href="https://www.linkedin.com/in/tomduggan85/"><strong>Tom Duggan</strong></a> <a href="https://www.linkedin.com/in/tomduggan85/"><sup>↗</sup></a><br/><sub>Senior Software Engineer · Anduril 🇺🇸</sub><br/><br/><sub><i>"A drive to learn new technologies and apply them to real-world problems... thoughtful, pragmatic, and asks the right questions."</i></sub></td></tr>
+</table>
 
 <br />
 
