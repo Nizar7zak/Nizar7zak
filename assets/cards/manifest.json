@@ -1,5 +1,19 @@
 [
   {
+    "id": "circles",
+    "name": "Circles",
+    "desc": "Location-aware social network \u00b7 one place, one moment, one circle",
+    "desc2": "Shipped marketing site \u00b7 iOS live on App Store \u00b7 proximity over popularity",
+    "tags": [
+      "Next.js",
+      "App Store",
+      "Social"
+    ],
+    "accent": "#E63946",
+    "logo_file": "circles.png",
+    "hero": true
+  },
+  {
     "id": "bayzat",
     "name": "Bayzat",
     "desc": "Core team on Bayzat's AI app builder, shipping prompt-to-product tooling integrated with the platform",
