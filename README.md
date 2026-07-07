@@ -13,7 +13,6 @@
 <br /><br />
 
 <img src="https://img.shields.io/badge/Now-Bayzat-2563eb?style=flat-square"/>
-<img src="https://img.shields.io/badge/Built-Circles-E63946?style=flat-square"/>
 <img src="https://img.shields.io/badge/Built-evnno_·_Dozny-7c3aed?style=flat-square"/>
 <img src="https://img.shields.io/badge/AWS-Certified_×4-f59e0b?style=flat-square"/>
 <img src="https://img.shields.io/badge/Speaks-EN_·_DE_B1_·_AR-16a34a?style=flat-square"/>
@@ -36,15 +35,6 @@
 <!-- bento grid: PNG cards · regenerate via scripts/generate-cards.py -->
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/📍_CIRCLES-E63946?style=for-the-badge&labelColor=0D1B2A&logoColor=white&height=28"/>
-
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-<tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://circles-beta-ten.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/circles.png?v=5" alt="Circles"/></a></td></tr>
-</table>
-
-<br/>
 
 <img src="https://img.shields.io/badge/🤖_AI_PLATFORMS-7c3aed?style=for-the-badge&labelColor=4f46e5&logoColor=white&height=28"/>
 

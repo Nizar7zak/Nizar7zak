@@ -22,16 +22,6 @@ FONT_REG = "/System/Library/Fonts/Supplemental/Arial.ttf"
 
 PROJECTS = [
     {
-        "id": "circles",
-        "name": "Circles",
-        "desc": "Location-aware social network · one place, one moment, one circle",
-        "desc2": "Shipped marketing site · iOS live on App Store · proximity over popularity",
-        "tags": ["Next.js", "App Store", "Social"],
-        "accent": "#E63946",
-        "logo_file": "circles.png",
-        "hero": True,
-    },
-    {
         "id": "bayzat",
         "name": "Bayzat",
         "desc": "Core team on Bayzat's AI app builder, shipping prompt-to-product tooling integrated with the platform",
