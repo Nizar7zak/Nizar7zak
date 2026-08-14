@@ -89,15 +89,6 @@ PROJECTS = [
         "logo_file": "azr.svg",
     },
     {
-        "id": "saqeefa",
-        "name": "Saqeefa",
-        "desc": "Festival 2026 B2B landing and lead capture",
-        "tags": ["B2B", "Next.js"],
-        "accent": "#10b981",
-        "logo_url": "https://saqeefa-ch26.com/icon.svg",
-        "logo_file": "saqeefa.svg",
-    },
-    {
         "id": "loi",
         "name": "LOI",
         "desc": "Saudi law firm site with EN/AR and admin dashboard",

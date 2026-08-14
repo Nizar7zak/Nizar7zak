@@ -58,8 +58,6 @@
 <tr><td height="6"></td></tr>
 <tr><td align="center"><a href="https://azr-brown.vercel.app/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/azr.png?v=4" alt="AZR"/></a></td></tr>
 <tr><td height="6"></td></tr>
-<tr><td align="center"><a href="https://saqeefa-ch26.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/saqeefa.png?v=4" alt="Saqeefa"/></a></td></tr>
-<tr><td height="6"></td></tr>
 <tr><td align="center"><a href="https://www.loi.sa/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/loi.png?v=4" alt="LOI"/></a></td></tr>
 <tr><td height="6"></td></tr>
 <tr><td align="center"><a href="https://www.evnno.com/"><img width="920" src="https://raw.githubusercontent.com/Nizar7zak/Nizar7zak/main/assets/cards/evnno.png?v=4" alt="evnno"/></a></td></tr>
